@@ -1,0 +1,1124 @@
+﻿<Project ToolsVersion="15.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props" Condition="Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{94F5E981-F2A1-4F98-9283-F03238FCC34F}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>BachatBazaar</RootNamespace>
+    <AssemblyName>BachatBazaar</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <UseIISExpress>true</UseIISExpress>
+    <Use64BitIISExpress />
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <UseGlobalApplicationHostFile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Net.Http, Version=4.1.1.3, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Net.Http.4.3.4\lib\net46\System.Net.Http.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Security.Cryptography.Algorithms, Version=4.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Security.Cryptography.Algorithms.4.3.0\lib\net461\System.Security.Cryptography.Algorithms.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Security.Cryptography.Encoding, Version=4.0.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Security.Cryptography.Encoding.4.3.0\lib\net46\System.Security.Cryptography.Encoding.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Security.Cryptography.Primitives, Version=4.0.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Security.Cryptography.Primitives.4.3.0\lib\net46\System.Security.Cryptography.Primitives.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Security.Cryptography.X509Certificates, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Security.Cryptography.X509Certificates.4.3.0\lib\net461\System.Security.Cryptography.X509Certificates.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CodeDom.Providers.DotNetCompilerPlatform">
+      <HintPath>..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0\lib\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="css2\bootstrap.css" />
+    <Content Include="css2\chocolat.css" />
+    <Content Include="css2\fontawesome-all.css" />
+    <Content Include="css2\image-slider.css" />
+    <Content Include="css2\mdb.min.css" />
+    <Content Include="css2\style.css" />
+    <Content Include="css2\theme.css" />
+    <Content Include="DashboardCustomer.aspx" />
+    <Content Include="Dashboard.aspx" />
+    <Content Include="AdminPanel.aspx" />
+    <Content Include="Default.aspx" />
+    <Content Include="dist\css\adminlte.css" />
+    <Content Include="dist\css\adminlte.min.css" />
+    <Content Include="dist\css\alt\adminlte.components.css" />
+    <Content Include="dist\css\alt\adminlte.components.min.css" />
+    <Content Include="dist\css\alt\adminlte.core.css" />
+    <Content Include="dist\css\alt\adminlte.core.min.css" />
+    <Content Include="dist\css\alt\adminlte.extra-components.css" />
+    <Content Include="dist\css\alt\adminlte.extra-components.min.css" />
+    <Content Include="dist\css\alt\adminlte.pages.css" />
+    <Content Include="dist\css\alt\adminlte.pages.min.css" />
+    <Content Include="dist\css\alt\adminlte.plugins.css" />
+    <Content Include="dist\css\alt\adminlte.plugins.min.css" />
+    <Content Include="dist\img\AdminLTELogo.png" />
+    <Content Include="dist\img\avatar.png" />
+    <Content Include="dist\img\avatar04.png" />
+    <Content Include="dist\img\avatar2.png" />
+    <Content Include="dist\img\avatar3.png" />
+    <Content Include="dist\img\avatar5.png" />
+    <Content Include="dist\img\boxed-bg.jpg" />
+    <Content Include="dist\img\boxed-bg.png" />
+    <Content Include="dist\img\credit\american-express.png" />
+    <Content Include="dist\img\credit\cirrus.png" />
+    <Content Include="dist\img\credit\mastercard.png" />
+    <Content Include="dist\img\credit\mestro.png" />
+    <Content Include="dist\img\credit\paypal.png" />
+    <Content Include="dist\img\credit\paypal2.png" />
+    <Content Include="dist\img\credit\visa.png" />
+    <Content Include="dist\img\default-150x150.png" />
+    <Content Include="dist\img\icons.png" />
+    <Content Include="dist\img\photo1.png" />
+    <Content Include="dist\img\photo2.png" />
+    <Content Include="dist\img\photo3.jpg" />
+    <Content Include="dist\img\photo4.jpg" />
+    <Content Include="dist\img\prod-1.jpg" />
+    <Content Include="dist\img\prod-2.jpg" />
+    <Content Include="dist\img\prod-3.jpg" />
+    <Content Include="dist\img\prod-4.jpg" />
+    <Content Include="dist\img\prod-5.jpg" />
+    <Content Include="dist\img\user1-128x128.jpg" />
+    <Content Include="dist\img\user2-160x160.jpg" />
+    <Content Include="dist\img\user3-128x128.jpg" />
+    <Content Include="dist\img\user4-128x128.jpg" />
+    <Content Include="dist\img\user5-128x128.jpg" />
+    <Content Include="dist\img\user6-128x128.jpg" />
+    <Content Include="dist\img\user7-128x128.jpg" />
+    <Content Include="dist\img\user8-128x128.jpg" />
+    <Content Include="dist\js\adminlte.js" />
+    <Content Include="dist\js\adminlte.min.js" />
+    <Content Include="dist\js\demo.js" />
+    <Content Include="dist\js\pages\dashboard.js" />
+    <Content Include="dist\js\pages\dashboard2.js" />
+    <Content Include="dist\js\pages\dashboard3.js" />
+    <Content Include="Edit_Form_C_Individual.aspx" />
+    <Content Include="Edit_Form_C_Society.aspx" />
+    <Content Include="Edit_Form_D_Individual.aspx" />
+    <Content Include="Edit_Form_D_Society.aspx" />
+    <Content Include="E_commerce.aspx" />
+    <Content Include="FormC_Individual.aspx" />
+    <Content Include="Form_C_Society.aspx" />
+    <Content Include="Form_D_Individual.aspx" />
+    <Content Include="Form_D_Society.aspx" />
+    <Content Include="images\banner111.jpg" />
+    <Content Include="images\bch2.jpeg" />
+    <Content Include="images\bcht1.jpeg" />
+    <Content Include="img\1.jpg" />
+    <Content Include="img\2.jpg" />
+    <Content Include="img\3.jpg" />
+    <Content Include="img\4.jpg" />
+    <Content Include="img\5.jpg" />
+    <Content Include="img\6.jpg" />
+    <Content Include="img\aj.jpeg" />
+    <Content Include="img\Anji.jpeg" />
+    <Content Include="img\bg1.jpg" />
+    <Content Include="img\bg2.jpg" />
+    <Content Include="img\bg4.jpg" />
+    <Content Include="img\cal-icon.png" />
+    <Content Include="img\event-bg.jpg" />
+    <Content Include="img\f1.png" />
+    <Content Include="img\f2.png" />
+    <Content Include="img\f3.png" />
+    <Content Include="img\f4.png" />
+    <Content Include="img\food.jpg" />
+    <Content Include="img\menu\menu_1.jpg" />
+    <Content Include="img\menu\menu_2.jpg" />
+    <Content Include="img\menu\menu_3.jpg" />
+    <Content Include="img\minus.png" />
+    <Content Include="img\plus.png" />
+    <Content Include="img\slider1.jpg" />
+    <Content Include="img\slider2.jpg" />
+    <Content Include="img\slider3.jpg" />
+    <Content Include="ItemMasterAdmin.aspx" />
+    <Content Include="ItemMasterSakav.aspx" />
+    <Content Include="Login.aspx" />
+    <Content Include="MemberList.aspx" />
+    <Content Include="MyOrder.aspx" />
+    <Content Include="MyOrderDetail.aspx" />
+    <Content Include="Popup.aspx" />
+    <Content Include="Receipt.aspx" />
+    <Content Include="OrderDetail.aspx" />
+    <Content Include="OrderMasterAdmin.aspx" />
+    <Content Include="ItemMaster.aspx" />
+    <Content Include="OrderMaster.aspx" />
+    <Content Include="ProductImage\222  kaali munch rice loose.jpg" />
+    <Content Include="ProductImage\a1.jpg" />
+    <Content Include="ProductImage\a11.jpg" />
+    <Content Include="ProductImage\a2.jpg" />
+    <Content Include="ProductImage\a3.jpg" />
+    <Content Include="ProductImage\aashirwad atta 10 kg.jpg" />
+    <Content Include="ProductImage\active wheel 2 in 1 500 gm.jpg" />
+    <Content Include="ProductImage\active wheel 2 in 1 detergent cake 130 gm.jpg" />
+    <Content Include="ProductImage\ad2.jpg" />
+    <Content Include="ProductImage\aj1.jpeg" />
+    <Content Include="ProductImage\almond drops 50ml.jpg" />
+    <Content Include="ProductImage\Almond Drops.jpg" />
+    <Content Include="ProductImage\amul cow ghee 1 Ltr Tin.jpg" />
+    <Content Include="ProductImage\amul ghee 1 cartoon.jpg" />
+    <Content Include="ProductImage\amul ghee 500 ml.jpg" />
+    <Content Include="ProductImage\amul pro choclate.jpeg" />
+    <Content Include="ProductImage\amul pure ghee 1 tin.jpg" />
+    <Content Include="ProductImage\anti - bacterial exo touch &amp; shine round 1.4 kg.jpg" />
+    <Content Include="ProductImage\anti - hair fall shampoo 80 ml.jpg" />
+    <Content Include="ProductImage\anti - hairfall 72 ml.jpg" />
+    <Content Include="ProductImage\anti smooth.jpg" />
+    <Content Include="ProductImage\ariel complete 700 gm.jpg" />
+    <Content Include="ProductImage\ariel matic front load 2 kg.jpg" />
+    <Content Include="ProductImage\Ariel Matic Front Load Detergent Washing Powder 2 kg.jpg" />
+    <Content Include="ProductImage\ariel matic top load 2 kg.jpg" />
+    <Content Include="ProductImage\ariel perfectwash 500 gm.jpg" />
+    <Content Include="ProductImage\Ashirvaad Whole Wheat Atta-5 kg.jpg" />
+    <Content Include="ProductImage\ashirvad salt 1 kg.jpg" />
+    <Content Include="ProductImage\avi soyabean 1 liter.jpg" />
+    <Content Include="ProductImage\avi soyabean 5 liter.jpg" />
+    <Content Include="ProductImage\ayurvedic oil 300 ml.jpg" />
+    <Content Include="ProductImage\BAJAJ ALMOND DROPS-500 ml.jpg" />
+    <Content Include="ProductImage\bajaj almond oil 100 ml.jpg" />
+    <Content Include="ProductImage\bast chilka hari moong dall 500 gm.jpg" />
+    <Content Include="ProductImage\best almonds.jpg" />
+    <Content Include="ProductImage\best chana daal.jpg" />
+    <Content Include="ProductImage\best hari monng daal 1 kg.jpg" />
+    <Content Include="ProductImage\best masoor dal.jpg" />
+    <Content Include="ProductImage\best toor dal.jpg" />
+    <Content Include="ProductImage\boroplus 80 ml.jpg" />
+    <Content Include="ProductImage\bournvita 1 kg.jpg" />
+    <Content Include="ProductImage\bournvita 200 gm.jpg" />
+    <Content Include="ProductImage\bournvita 500gm.jpg" />
+    <Content Include="ProductImage\Bru coffe 50.jpg" />
+    <Content Include="ProductImage\burnvita 1 kg.jpg" />
+    <Content Include="ProductImage\catch chaat masala 50 gm.jpg" />
+    <Content Include="ProductImage\catch chana masala 100 gm.jpg" />
+    <Content Include="ProductImage\Catch Chatpata Chat Masala %2850 gm%29-.jpg" />
+    <Content Include="ProductImage\catch chhole masala 100 gm.jpeg" />
+    <Content Include="ProductImage\Catch chhole masala 50 gm Masala.jpg" />
+    <Content Include="ProductImage\catch chicken masala 100 gm.jpg" />
+    <Content Include="ProductImage\catch chicken masala 50 gm.jpg" />
+    <Content Include="ProductImage\catch garam masala 100 gm.jpg" />
+    <Content Include="ProductImage\catch garam masala 50 gm.jpg" />
+    <Content Include="ProductImage\catch hing 50 gm.jpg" />
+    <Content Include="ProductImage\catch jinger garlic paste 100 gm.jpg" />
+    <Content Include="ProductImage\catch jinger garlic paste 200 gm.jpg" />
+    <Content Include="ProductImage\catch kasori methi 100gm.jpg" />
+    <Content Include="ProductImage\catch kasori methi 50 gm.jpg" />
+    <Content Include="ProductImage\catch kasuri meethi.jpg" />
+    <Content Include="ProductImage\catch kitchin king 100 gm.jpg" />
+    <Content Include="ProductImage\catch kitchin king 50 gm.jpg" />
+    <Content Include="ProductImage\catch meat maala 100 gm.jpg" />
+    <Content Include="ProductImage\catch meat masala 50 gm.jpg" />
+    <Content Include="ProductImage\Catch Pav Bhaji Masala 100gm.jpg" />
+    <Content Include="ProductImage\catch pav bhaji masala 50 gm.jpg" />
+    <Content Include="ProductImage\catch sabji masala 100 gm.jpg" />
+    <Content Include="ProductImage\catch sabji masala 50 gm.jpg" />
+    <Content Include="ProductImage\catch sahi paneer masala 100gm.jpg" />
+    <Content Include="ProductImage\catch sahi paneer masala 50 gm.jpg" />
+    <Content Include="ProductImage\catch sambhar masala 100 gm.jpg" />
+    <Content Include="ProductImage\catch sambhar masala 50 gm.jpg" />
+    <Content Include="ProductImage\Catch-Chana-Masala 50gm.jpg" />
+    <Content Include="ProductImage\chilka urad dal.jpg" />
+    <Content Include="ProductImage\ching secret schezwan instant noodles 240 gm.jpg" />
+    <Content Include="ProductImage\Chings Secret Dark Soy Sauce 210 GM.jpg" />
+    <Content Include="ProductImage\chings secret hot garlic instant noodles 240 gm.jpg" />
+    <Content Include="ProductImage\chings secret manchurian instant noodles 240 gm.jpg" />
+    <Content Include="ProductImage\chuara-best.jpg" />
+    <Content Include="ProductImage\closeup everfresh triple fresh 150 gm.jpg" />
+    <Content Include="ProductImage\colgate strong teeth jumbo save 500 gm.jpg" />
+    <Content Include="ProductImage\complan royal choclate 500 gm.jpg" />
+    <Content Include="ProductImage\d5.jpg" />
+    <Content Include="ProductImage\daawat gold rice 1 kg.jpg" />
+    <Content Include="ProductImage\daawat pulav rice 1 kg.jpg" />
+    <Content Include="ProductImage\daawat rozana gold 5 kg.jpg" />
+    <Content Include="ProductImage\daawat rozana gold basmati rice 1 kg.jpg" />
+    <Content Include="ProductImage\daawat rozana gold rice 1kg.jpg" />
+    <Content Include="ProductImage\daawat rozana gold rice 5 kg.jpg" />
+    <Content Include="ProductImage\Daawat--Basmati-Rozana-Niki-40 no. 10 kg.jpg" />
+    <Content Include="ProductImage\daawat-basmati-rice-rozana-70 no. mogra 10 kg.jpg" />
+    <Content Include="ProductImage\dabur amla hair oil 216 ml.jpg" />
+    <Content Include="ProductImage\dabur anmol gold 600 ml.jpg" />
+    <Content Include="ProductImage\dabur babool toothpaste 175 gm.jpg" />
+    <Content Include="ProductImage\dabur dant rakshak paste ayurvedic paste 175 gm.jpg" />
+    <Content Include="ProductImage\dabur honey 1 kg.jpg" />
+    <Content Include="ProductImage\Dabur honey 500 gm.jpg" />
+    <Content Include="ProductImage\dabur red gel ayurvedic gel for 300 gm.jpg" />
+    <Content Include="ProductImage\dabur red paste super saver pack 400 gm.jpg" />
+    <Content Include="ProductImage\dammani soyabean 5 liter.jpg" />
+    <Content Include="ProductImage\dammani-swadist-soyabean-oil-1l.jpg" />
+    <Content Include="ProductImage\dawat rozana basmati rice 40 no. 10 kg.jpg" />
+    <Content Include="ProductImage\dawat rozana basmati rice 40 no..jpg" />
+    <Content Include="ProductImage\dawat rozana basmati rice mogra 70 no. 10 kg.jpg" />
+    <Content Include="ProductImage\Del Monte Quality Since 1892 Tomato Ketchup Original Blend 950 GM.jpg" />
+    <Content Include="ProductImage\dettol original trusted protection 45 gm.jpg" />
+    <Content Include="ProductImage\dhaara groundnut 15 liter.jpg" />
+    <Content Include="ProductImage\dhara groundnut 1 liter.jpg" />
+    <Content Include="ProductImage\dhara groundnut 5 liter.jpg" />
+    <Content Include="ProductImage\dhara soyabean 15 liter.jpg" />
+    <Content Include="ProductImage\dhara soyabean oil 1liter.jpg" />
+    <Content Include="ProductImage\dhara soyabean oil 5 liter.jpg" />
+    <Content Include="ProductImage\dove 100 gm.jpg" />
+    <Content Include="ProductImage\dove face beauty bar 25 gm.jpg" />
+    <Content Include="ProductImage\everest chaat masala 100 gm.jpg" />
+    <Content Include="ProductImage\everest chaat masala 50 gm.jpg" />
+    <Content Include="ProductImage\everest chicken masala 100 gm.jpg" />
+    <Content Include="ProductImage\everest chiken masala 50gm.jpg" />
+    <Content Include="ProductImage\everest chole masala 50 gm.jpg" />
+    <Content Include="ProductImage\everest dhaniya 100 gm.jpg" />
+    <Content Include="ProductImage\everest dhaniya 200 gm.jpg" />
+    <Content Include="ProductImage\everest dhaniya 500 gm.jpg" />
+    <Content Include="ProductImage\everest haldi 100 gm.jpg" />
+    <Content Include="ProductImage\everest haldi 200 gm.jpg" />
+    <Content Include="ProductImage\everest haldi 500 gm.jpeg" />
+    <Content Include="ProductImage\everest hing 50 gm.jpg" />
+    <Content Include="ProductImage\everest kitchin king 100 gm.jpg" />
+    <Content Include="ProductImage\everest kitchin king 50 gm.jpg" />
+    <Content Include="ProductImage\everest meat masala 50gm.jpg" />
+    <Content Include="ProductImage\everest mirch 100 gm.jpg" />
+    <Content Include="ProductImage\everest mirch 200 gm.jpg" />
+    <Content Include="ProductImage\everest mirch 500 gm.jpg" />
+    <Content Include="ProductImage\everest paani poori masala 100 gm.jpg" />
+    <Content Include="ProductImage\everest paani poori masala 50 gm.jpg" />
+    <Content Include="ProductImage\everest pav bhaji masala 100 gm.jpg" />
+    <Content Include="ProductImage\everest pav bhaji masala 50 gm.jpg" />
+    <Content Include="ProductImage\everest sabji masala 50 gm.jpg" />
+    <Content Include="ProductImage\EVEREST SABJI MASALA-100 grm-.jpg" />
+    <Content Include="ProductImage\everest sahi biryani 100 gm.jpg" />
+    <Content Include="ProductImage\everest sahi biryani masala 50 gm.jpg" />
+    <Content Include="ProductImage\everest sambhar masala 100 gm.jpg" />
+    <Content Include="ProductImage\everest sambhar masala 50 gm.jpg" />
+    <Content Include="ProductImage\everest tandoori chicken masala 100 gm.jpg" />
+    <Content Include="ProductImage\Everest-chhole-masala-100 gm.jpg" />
+    <Content Include="ProductImage\everest-meat-masala-100 gm.jpg" />
+    <Content Include="ProductImage\everest_garam_masala 100 gm.jpg" />
+    <Content Include="ProductImage\everset garam masala 50gm.jpg" />
+    <Content Include="ProductImage\fortune atta 10 kg.jpg" />
+    <Content Include="ProductImage\fortune besan 1 kg.jpg" />
+    <Content Include="ProductImage\Fortune Besan 500 gm.png" />
+    <Content Include="ProductImage\fortune groundnut 1 liter bottel.jpg" />
+    <Content Include="ProductImage\fortune groundnut 1 liter.jpg" />
+    <Content Include="ProductImage\fortune rice bran 15 liter.jpg" />
+    <Content Include="ProductImage\fortune rozana rice 1 kg.jpg" />
+    <Content Include="ProductImage\fortune soya chunks.jpg" />
+    <Content Include="ProductImage\fortune soyabean oil 1 liter.jpg" />
+    <Content Include="ProductImage\fortune soyabean oil 15 liter.jpg" />
+    <Content Include="ProductImage\fortune sunlite 1 liter.jpg" />
+    <Content Include="ProductImage\fortune-atta-chakki-fresh-5kg.jpg" />
+    <Content Include="ProductImage\Fortune-Everyday-Basmati-Rice-5kg.jpg" />
+    <Content Include="ProductImage\Fortune-Kachi-Ghani-Pure-Mustard-Oil-1ltr.jpg" />
+    <Content Include="ProductImage\Fortune-Mustard-Oil-5 liter.jpg" />
+    <Content Include="ProductImage\Fortune-Mustard-Oil-5-L-.jpg" />
+    <Content Include="ProductImage\fortune-refined-groundnut-oil-.jpg" />
+    <Content Include="ProductImage\fortune-rice-brand-oil 1 liter.jpg" />
+    <Content Include="ProductImage\fortune-soyabean-oil-5-ltr-jar-1.jpg" />
+    <Content Include="ProductImage\fortunesoyabean oil 5 liter.jpg" />
+    <Content Include="ProductImage\fortunr rice bran 5 liter.jpg" />
+    <Content Include="ProductImage\fortunr sunlite 5 liter oil.jpg" />
+    <Content Include="ProductImage\gagan toor dal 1 kg g.jpg" />
+    <Content Include="ProductImage\gagan toor dal 1 kg.jpeg" />
+    <Content Include="ProductImage\gagwal singhada atta 200.jpg" />
+    <Content Include="ProductImage\gangwal atta 5 kg.jpg" />
+    <Content Include="ProductImage\gangwal daliya 500 gm.jpg" />
+    <Content Include="ProductImage\gangwal maida 500 gm.jpg" />
+    <Content Include="ProductImage\gangwal maida.jpg" />
+    <Content Include="ProductImage\gangwal rava.jpg" />
+    <Content Include="ProductImage\gangwal sada besan 500gm.jpg" />
+    <Content Include="ProductImage\gangwal suji.jpg" />
+    <Content Include="ProductImage\gengeral chana dall 1 kg.jpg" />
+    <Content Include="ProductImage\genrel chana dal.jpg" />
+    <Content Include="ProductImage\ghadi detergent 1 kg maha sakti sali.jpg" />
+    <Content Include="ProductImage\ghadi detergent cake 90 gm.jpg" />
+    <Content Include="ProductImage\goorej no.1 600 gm.jpg" />
+    <Content Include="ProductImage\goorej no.1 lime alone vera 250 gm.jpg" />
+    <Content Include="ProductImage\goorej no.1 neem rose 252 gm.jpg" />
+    <Content Include="ProductImage\goorej no.1 sandal 252 gm.jpg" />
+    <Content Include="ProductImage\goorej no.1 sandal 600 gm.jpg" />
+    <Content Include="ProductImage\goorej protekt masterchefs handwash 750 ml.jpg" />
+    <Content Include="ProductImage\green-moong-dal-haldhar.jpg" />
+    <Content Include="ProductImage\hair &amp; care 50 ml.jpg" />
+    <Content Include="ProductImage\hair &amp; care 50ml.jpg" />
+    <Content Include="ProductImage\hair care oil 200 ml.jpg" />
+    <Content Include="ProductImage\HAMAM NEEM 150   GM.jpg" />
+    <Content Include="ProductImage\HAMAM NEEM TULSI &amp; ALOE VERA PACK OF 8.jpg" />
+    <Content Include="ProductImage\hasty tasty super fine poha 1 kg.jpg" />
+    <Content Include="ProductImage\hawam neem tulsi &amp; aloe vera 8 pack.jpg" />
+    <Content Include="ProductImage\head &amp; shoulders anti - dandruff shampoo silky black 72 ml.jpg" />
+    <Content Include="ProductImage\Head Shoulders Silky Black Shampoo 72mlB.jpg" />
+    <Content Include="ProductImage\head-shoulders-smooth-silky-anti-dandruff-shampoo-180-ml-2-20201013.jpg" />
+    <Content Include="ProductImage\hersheys milk booster coclet.jpg" />
+    <Content Include="ProductImage\himalay baby powder refreshing baby soap 200 gm.gif" />
+    <Content Include="ProductImage\himalaya anti - dandruff 80 ml.jpg" />
+    <Content Include="ProductImage\himalaya complete care toothpaste 150 gm.jpg" />
+    <Content Include="ProductImage\himalaya natural glow kesar face cream 25 gm.jpg" />
+    <Content Include="ProductImage\himalaya neem &amp; turmeric and purifies skin 75 gm.jpeg" />
+    <Content Include="ProductImage\himalaya neem &amp; turmeric soap 75 gm.jpg" />
+    <Content Include="ProductImage\himalaya purifying neem face wash 200 ml.jpg" />
+    <Content Include="ProductImage\himalaya sine 1930 neem.jpg" />
+    <Content Include="ProductImage\himalaya sparkling white toothpaste 150 gm.jpg" />
+    <Content Include="ProductImage\horic delight 750.jpg" />
+    <Content Include="ProductImage\horlicks malt 750.jpg" />
+    <Content Include="ProductImage\Hunny.jpg" />
+    <Content Include="ProductImage\ilaychi.jpg" />
+    <Content Include="ProductImage\India-Gate-Mogra-Basmati-Rice.-10 kg.jpg" />
+    <Content Include="ProductImage\jasmin &amp; vitamin E 59 gm.jpg" />
+    <Content Include="ProductImage\jeera best.jpg" />
+    <Content Include="ProductImage\jo almond &amp; cream 600 gm.jpg" />
+    <Content Include="ProductImage\jo almond ceram 600 gm soap.jpg" />
+    <Content Include="ProductImage\jo caressing cream almond &amp; cream 600 gm.jpeg" />
+    <Content Include="ProductImage\k10.jpg" />
+    <Content Include="ProductImage\kaabuli chana.jpg" />
+    <Content Include="ProductImage\kaali mirch.jpg" />
+    <Content Include="ProductImage\kaali moong dal.jpg" />
+    <Content Include="ProductImage\kaju 2 pieces.jpg" />
+    <Content Include="ProductImage\kaju 2-3 pieces.jpg" />
+    <Content Include="ProductImage\kissan mixed fruit jam 200 gm.jpg" />
+    <Content Include="ProductImage\Kissan Mixed Fruit Jam 750gm.jpg" />
+    <Content Include="ProductImage\Kissan Since 1934 Fresh Tomato Ketchup 950 GM Maha Bachat Pack With 1000 %25 real Tomatoes.jpg" />
+    <Content Include="ProductImage\kissan since 1934.jpg" />
+    <Content Include="ProductImage\kissan-fresh-tomato-ketchup 1 kg.jpg" />
+    <Content Include="ProductImage\kissan-fresh-tomato-ketchup 500 gm.jpg" />
+    <Content Include="ProductImage\kissan-fresh-tomato-ketchup 950 gm.jpg" />
+    <Content Include="ProductImage\Kissan-Mixed-Fruit-Jam-500 gm.jpg" />
+    <Content Include="ProductImage\Kitchen Dip Green Chilli Sauce%281. bottel %29 750 GM.jpg" />
+    <Content Include="ProductImage\laxmi toor dar 1 kg.jpg" />
+    <Content Include="ProductImage\lemon fesh 72.jpg" />
+    <Content Include="ProductImage\lifeboy 100 gm.jpg" />
+    <Content Include="ProductImage\lifeboy 100%25 stronger 100 gm.jpg" />
+    <Content Include="ProductImage\lifebuoy 100 %25 stronger germ protection 65 gm.jpg" />
+    <Content Include="ProductImage\lifebuoy 65 gm.jpg" />
+    <Content Include="ProductImage\lipton green.jpg" />
+    <Content Include="ProductImage\lipton mint.jpg" />
+    <Content Include="ProductImage\lipton tea honey.jpg" />
+    <Content Include="ProductImage\liril 75 gm.jpg" />
+    <Content Include="ProductImage\liril lemon &amp; tea tree oil 75 gm.jpg" />
+    <Content Include="ProductImage\loose jeera.jpg" />
+    <Content Include="ProductImage\loose prem bhog basmati rice.jpg" />
+    <Content Include="ProductImage\loose rice full grain.jpg" />
+    <Content Include="ProductImage\loose rice hukumat.jpg" />
+    <Content Include="ProductImage\loose suger.jpg" />
+    <Content Include="ProductImage\Loose-Poha-.jpg" />
+    <Content Include="ProductImage\Ls 24 Carts Mango Pickle 1 Kg.jpg" />
+    <Content Include="ProductImage\lux jasmine &amp; 59 gm.jpg" />
+    <Content Include="ProductImage\lux jasmine &amp; vitamin E 150 3 x 150 gm.jpg" />
+    <Content Include="ProductImage\lux jasmine &amp; vitamin E 59 gm.jpg" />
+    <Content Include="ProductImage\lux jasmine 150 gm.jpg" />
+    <Content Include="ProductImage\lux rose &amp; vitamin E 150 gm.jpeg" />
+    <Content Include="ProductImage\lux soap 150 gm.jpg" />
+    <Content Include="ProductImage\lux soft touch 150 gm.jpg" />
+    <Content Include="ProductImage\lux velvet touch 59 gm.jpg" />
+    <Content Include="ProductImage\madhur sugar 5 kg.jpg" />
+    <Content Include="ProductImage\Madhur-Sugar 1 kg.jpg" />
+    <Content Include="ProductImage\maggi 2 minute masala instant noodles 140 gm.jpg" />
+    <Content Include="ProductImage\maggi 2 minute masala instant noodles 70 gm.jpg" />
+    <Content Include="ProductImage\maggi 2 minute masala noodes 560 gm.jpg" />
+    <Content Include="ProductImage\maggi cheesy tomato twist instant pazzta 64 gm.jpg" />
+    <Content Include="ProductImage\maggi masala penne instant pazzta 65 gm.jpg" />
+    <Content Include="ProductImage\maggi natri lieious masala instant atta noodles 290 gm.jpg" />
+    <Content Include="ProductImage\maggi oats.jpg" />
+    <Content Include="ProductImage\mahakosh soyabean 15 liter.jpeg" />
+    <Content Include="ProductImage\mahakosh soysbean 5 liter.jpg" />
+    <Content Include="ProductImage\Mahakosh-Soya-Oil-Pouch-1 L.jpg" />
+    <Content Include="ProductImage\makhana 250.jpg" />
+    <Content Include="ProductImage\makhana best.jpg" />
+    <Content Include="ProductImage\makhana regular.jpg" />
+    <Content Include="ProductImage\margo neem leaves uitamin 1 kg.jpg" />
+    <Content Include="ProductImage\marvel 1 kg.jpg" />
+    <Content Include="ProductImage\marvel 250.jpg" />
+    <Content Include="ProductImage\marvel 500.jpeg" />
+    <Content Include="ProductImage\masoor dal.jpg" />
+    <Content Include="ProductImage\mk5.jpg" />
+    <Content Include="ProductImage\mustured rai.jpg" />
+    <Content Include="ProductImage\neelkamal whait detergent powder 5 kg.jpeg" />
+    <Content Include="ProductImage\neem &amp; tulsi patanjali.png" />
+    <Content Include="ProductImage\nescafe classic 100.jpg" />
+    <Content Include="ProductImage\nescafe classic 50.jpg" />
+    <Content Include="ProductImage\new pack kachi ghani 15 liter oil.jpg" />
+    <Content Include="ProductImage\nilon sewaiyan 70 mrp.jpg" />
+    <Content Include="ProductImage\Nilons Cut Sewaiyan 400 Gm.jpg" />
+    <Content Include="ProductImage\Nilons Ketchup Perium Tomato Ketchup Pauch 80 GM.jpg" />
+    <Content Include="ProductImage\Nilons Rajashthani Mixed Pickle 1 Kg.jpg" />
+    <Content Include="ProductImage\Nilons Since 1962 Classic Mango Pickle 1 Kg.jpg" />
+    <Content Include="ProductImage\Nilons Since 1962 Classic Mango Pickle 350 Gm.jpg" />
+    <Content Include="ProductImage\Nilons Since 1962 Classic Mango Pickle 500 Gm.jpeg" />
+    <Content Include="ProductImage\Nilons Since 1962 Classic Mixed Pickle  500 Gm.jpg" />
+    <Content Include="ProductImage\Nilons Since 1962 Classic Mixed Pickle 1 Kg.jpg" />
+    <Content Include="ProductImage\Nilons Since 1962 Continental Sauce %28 1.bottel %29 660 Gm.jpg" />
+    <Content Include="ProductImage\Nilons Since 1962 Green Chilli Sauce%28 1.bottel %29 660 Gm.jpg" />
+    <Content Include="ProductImage\Nilons Since 1962 Ketchup Tomato Ketchup 950 GM.jpeg" />
+    <Content Include="ProductImage\Nilons Since 1962 Khana Khazana Mixed Pickle  350 Gm.jpg" />
+    <Content Include="ProductImage\Nilons Since 1962 Khana Khazana Mixed Pickle 1 Kg.jpg" />
+    <Content Include="ProductImage\Nilons Since 1962 Red Chilli Sauce%28 1.bottel %29 660 Gm.jpg" />
+    <Content Include="ProductImage\Nilons Since 1962 Roasted Cut Vermicalli 30 Gm.jpg" />
+    <Content Include="ProductImage\Nilons Since 1962 Sewaiyan Thin &amp; Roasted 100 %25 Natural 400 GM.jpg" />
+    <Content Include="ProductImage\Nilons Since 1962 Sewaiyan Thin &amp; Roasted 110 Gm.jpg" />
+    <Content Include="ProductImage\Nilons Since 1962 Sreen Chilli Sauce 180 GM.jpg" />
+    <Content Include="ProductImage\Nilons Since 1962 Sreen Vinegar 180 GM.jpg" />
+    <Content Include="ProductImage\Nilons Since 1962 Vinegar %28 1.bottel %29 630 ML.jpeg" />
+    <Content Include="ProductImage\Nilons Sine 1962  Red Chilli Sauce 180 GM.jpg" />
+    <Content Include="ProductImage\Nilons Sine 1962  Soya Sauce 180 GM.jpg" />
+    <Content Include="ProductImage\nilons soya chunks.jpg" />
+    <Content Include="ProductImage\nilons-tomato-ketchup-80 gm.jpg" />
+    <Content Include="ProductImage\nine 28 MRP naturally.jpg" />
+    <Content Include="ProductImage\NINE DRY COMFORT 28 REGULAR 230 MM.gif" />
+    <Content Include="ProductImage\nine dry comfort extra long 275 m.jpg" />
+    <Content Include="ProductImage\nine dry comfort extra long 275 mm.jpeg" />
+    <Content Include="ProductImage\nine naturally soft extra long 275mm.jpeg" />
+    <Content Include="ProductImage\nine naturally soft extra long 6 pads 275 mm.jpg" />
+    <Content Include="ProductImage\nine naturally soft regular 230 mm.jpg" />
+    <Content Include="ProductImage\nivea creme soft creme soap 125 gm.jpg" />
+    <Content Include="ProductImage\NIVEA PURE TALC 400 GM.jpg" />
+    <Content Include="ProductImage\no.1 jasmine milk cream 525 gm.jpeg" />
+    <Content Include="ProductImage\oilll.jpg" />
+    <Content Include="ProductImage\parachute advansed jasmine 200 ml.jpg" />
+    <Content Include="ProductImage\paree 105 super soft pads.jpg" />
+    <Content Include="ProductImage\paree 29 dry feel 7 sanitary pads.jpg" />
+    <Content Include="ProductImage\paree super 6 soft &amp; dry sanitary pads 35 mrp.jpg" />
+    <Content Include="ProductImage\paree super soft 20 n.jpg" />
+    <Content Include="ProductImage\patanjali 45 mrp.jpg" />
+    <Content Include="ProductImage\patanjali 500 ml ghee.jpg" />
+    <Content Include="ProductImage\patanjali anti bacterial herbal hand wash 200 ml.jpg" />
+    <Content Include="ProductImage\patanjali anti bacterial herbal pauch 200 ml.jpg" />
+    <Content Include="ProductImage\patanjali dant kant natueal toothpaste 100 ml.jpg" />
+    <Content Include="ProductImage\patanjali detergent powder with herbs superior quality 500 gm.jpg" />
+    <Content Include="ProductImage\patanjali ghee 1 l.jpg" />
+    <Content Include="ProductImage\patanjali groundnut 1 liter.jpg" />
+    <Content Include="ProductImage\patanjali groundnut 5 liter.jpg" />
+    <Content Include="ProductImage\patanjali herbal wash 1 kg.jpg" />
+    <Content Include="ProductImage\patanjali honey 1 kg.jpg" />
+    <Content Include="ProductImage\patanjali honey 250 gm.jpg" />
+    <Content Include="ProductImage\patanjali honey 500 gm.jpg" />
+    <Content Include="ProductImage\patanjali kacchi ghani oil 1 liter.jpg" />
+    <Content Include="ProductImage\patanjali kesh kanti 200 ml.jpg" />
+    <Content Include="ProductImage\patanjali kesh kanti hair oil 100 ml.jpg" />
+    <Content Include="ProductImage\patanjali neem &amp; tulsi 60 gm.png" />
+    <Content Include="ProductImage\patanjali rice bran 1 liter.jpg" />
+    <Content Include="ProductImage\patanjali rose face wash 45.jpg" />
+    <Content Include="ProductImage\patanjali soyabean 1 liter.jpg" />
+    <Content Include="ProductImage\patanjali soyabean oil 5 liter.jpg" />
+    <Content Include="ProductImage\patanjali super dishwash 50 mrp.jpg" />
+    <Content Include="ProductImage\patanjali super dishwash tub 500 gm.jpg" />
+    <Content Include="ProductImage\patanjali super dishwash with neem &amp; lemon 50 mrp.jpg" />
+    <Content Include="ProductImage\patanjali-rice-bran-oil-5ltr-.jpg" />
+    <Content Include="ProductImage\patanjalikacchi ghani 5 liter.jpg" />
+    <Content Include="ProductImage\peanuts pink.jpg" />
+    <Content Include="ProductImage\pear young &amp; glowing 35 gm.jpg" />
+    <Content Include="ProductImage\pears pure and gentle 60 gm.jpg" />
+    <Content Include="ProductImage\pepsodent 2 in 1 150 gm.jpg" />
+    <Content Include="ProductImage\pepsodent germi check 125 gm.jpeg" />
+    <Content Include="ProductImage\poha rice flakes 1 kg.jpg" />
+    <Content Include="ProductImage\poha sacha moti 1 kg.jpg" />
+    <Content Include="ProductImage\ponds dreamflower pink lily 100 gm.jpg" />
+    <Content Include="ProductImage\ponds magic acacia honey 100 gm.jpg" />
+    <Content Include="ProductImage\prem bhog rice loose.jpg" />
+    <Content Include="ProductImage\pushp dhaniya 100 gm..jpg" />
+    <Content Include="ProductImage\pushp dhaniya 200 gm.jpg" />
+    <Content Include="ProductImage\pushp dhaniya 500 gm.jpg" />
+    <Content Include="ProductImage\pushp haldi 100 gm.jpg" />
+    <Content Include="ProductImage\pushp haldi 200 gm.jpeg" />
+    <Content Include="ProductImage\pushp haldi 500 gm.jpg" />
+    <Content Include="ProductImage\pushp mirch 100 gm.jpg" />
+    <Content Include="ProductImage\pushp mirch 200 gm.jpg" />
+    <Content Include="ProductImage\pushp mirich 50 gm.jpg" />
+    <Content Include="ProductImage\quick cleen 250 gm.jpg" />
+    <Content Include="ProductImage\quick cleen scrub pad 12 mrp.jpg" />
+    <Content Include="ProductImage\rajma.jpg" />
+    <Content Include="ProductImage\ramdev hing 50 gm.jpg" />
+    <Content Include="ProductImage\rawa 500 gm.jpg" />
+    <Content Include="ProductImage\real apple.jpg" />
+    <Content Include="ProductImage\real guava.jpg" />
+    <Content Include="ProductImage\real litchi 1 l.jpg" />
+    <Content Include="ProductImage\real mixed 1 l.jpg" />
+    <Content Include="ProductImage\real orange.jpg" />
+    <Content Include="ProductImage\red label 250 gm.jpg" />
+    <Content Include="ProductImage\red label 500 gm.jpg" />
+    <Content Include="ProductImage\red label leaf tea 1kg.jpg" />
+    <Content Include="ProductImage\red label natural 250.jpg" />
+    <Content Include="ProductImage\red label natural 500 gm.jpg" />
+    <Content Include="ProductImage\red label natural care 250.jpg" />
+    <Content Include="ProductImage\red peanuts.jpg" />
+    <Content Include="ProductImage\regular badam.jpg" />
+    <Content Include="ProductImage\regular kaaju.jpg" />
+    <Content Include="ProductImage\regular somph.jpg" />
+    <Content Include="ProductImage\s2.jpg" />
+    <Content Include="ProductImage\s9.jpg" />
+    <Content Include="ProductImage\Sachamoti-Poha 1kg.jpg" />
+    <Content Include="ProductImage\safed ekka 1 kg.jpg" />
+    <Content Include="ProductImage\safed ekka 500 gm.jpg" />
+    <Content Include="ProductImage\saffola active 1 liter.jpg" />
+    <Content Include="ProductImage\saffola active 5 liter.jpg" />
+    <Content Include="ProductImage\saffola gold 1 liter.jpg" />
+    <Content Include="ProductImage\saffola gold 5 liter.jpg" />
+    <Content Include="ProductImage\saffola total 5 liter.jpg" />
+    <Content Include="ProductImage\sampat toor dal 1 kg.png" />
+    <Content Include="ProductImage\sampat toor dal 500 gm.jpg" />
+    <Content Include="ProductImage\sanchi 1 kg.jpg" />
+    <Content Include="ProductImage\sanchi-ghee 500 ml.jpg" />
+    <Content Include="ProductImage\santoor gentle hand wash 250 ml.jpg" />
+    <Content Include="ProductImage\SANTOOR GENTLE HAND WASH TOUGH ON GERMS 750 ML 99.jpg" />
+    <Content Include="ProductImage\santoor sandal almond milk 400 gm.jpg" />
+    <Content Include="ProductImage\savlon deep clean pauch 36 mrp.jpg" />
+    <Content Include="ProductImage\savlon glycerin 300 gm promo pack.png" />
+    <Content Include="ProductImage\savlon herbal sensitive 200 ml.jpg" />
+    <Content Include="ProductImage\savlone 45 gm.jpg" />
+    <Content Include="ProductImage\sewaiyan 100 %25.jpg" />
+    <Content Include="ProductImage\silver coin atta 10 kg.jpg" />
+    <Content Include="ProductImage\silver coin atta 5 kg.jpg" />
+    <Content Include="ProductImage\silver coin besan 1 kg.jpg" />
+    <Content Include="ProductImage\silver coin besan 500gm.jpg" />
+    <Content Include="ProductImage\silver coin daliya 1 kg.jpg" />
+    <Content Include="ProductImage\silver coin daliya 500 gm.jpg" />
+    <Content Include="ProductImage\silver coin maida 1 kg.jpg" />
+    <Content Include="ProductImage\silver coin maida 500 gm.jpg" />
+    <Content Include="ProductImage\silver coin Poha-1 kg.jpg" />
+    <Content Include="ProductImage\silver coin rawa 1 kg.jpeg" />
+    <Content Include="ProductImage\silver coin rawa 500 gm.jpg" />
+    <Content Include="ProductImage\silver coin suji 1 kg.jpeg" />
+    <Content Include="ProductImage\silvercoin suji 500gm.jpg" />
+    <Content Include="ProductImage\smith jones paste 200gm.jpg" />
+    <Content Include="ProductImage\smooth &amp; silky 72 ml 68 mrp.jpg" />
+    <Content Include="ProductImage\soap badi.jpg" />
+    <Content Include="ProductImage\sunfeast yipee 60 gm.jpg" />
+    <Content Include="ProductImage\sunfeast yipee power up masala instant 280 gm.jpg" />
+    <Content Include="ProductImage\sunrise 50.jpg" />
+    <Content Include="ProductImage\super 6 pads.jpg" />
+    <Content Include="ProductImage\super saver lifebuoy nature 750 mp.jpg" />
+    <Content Include="ProductImage\surf excel easy wash 1 kg.jpg" />
+    <Content Include="ProductImage\surf excel easy wash 500 gm.jpg" />
+    <Content Include="ProductImage\taj mahel 250.jpg" />
+    <Content Include="ProductImage\taj mahel 500.jpg" />
+    <Content Include="ProductImage\tan man 500 gm.jpg" />
+    <Content Include="ProductImage\tan man detergent cake 125 gm.jpg" />
+    <Content Include="ProductImage\tan man lajawab detergent cake 250 gm.jpeg" />
+    <Content Include="ProductImage\tata agni 1 kg.jpg" />
+    <Content Include="ProductImage\tata agni 250.jpg" />
+    <Content Include="ProductImage\tata agni 500.jpg" />
+    <Content Include="ProductImage\tata gold 250.jpg" />
+    <Content Include="ProductImage\tata gold 500.jpg" />
+    <Content Include="ProductImage\tata salt 1 kg.jpg" />
+    <Content Include="ProductImage\tide naturals lemon &amp; chandan 500 gm.jpg" />
+    <Content Include="ProductImage\tide value pack 1000 gm.jpg" />
+    <Content Include="ProductImage\toor dal.jpg" />
+    <Content Include="ProductImage\urad-daal-.jpg" />
+    <Content Include="ProductImage\urad-dal-whole-.jpg" />
+    <Content Include="ProductImage\vaseline deep moisture 400 ml.jpg" />
+    <Content Include="ProductImage\vaseline_daily_brightening_body_lotion_healthy_bright_50_ml_0_0.jpg" />
+    <Content Include="ProductImage\vim with lemons 200 gm.jpg" />
+    <Content Include="ProductImage\vim with power of lemons 155 gm.jpg" />
+    <Content Include="ProductImage\vim with power of lemons 95 gm.jpg" />
+    <Content Include="ProductImage\vivel alone verasatin soft skin 500 gm.jpg" />
+    <Content Include="ProductImage\vivel lotus oil 500 gm.jpg" />
+    <Content Include="ProductImage\w 240 kaju.jpeg" />
+    <Content Include="ProductImage\w 320 kaju.jpg" />
+    <Content Include="ProductImage\Wheel 2 in 1 bar 240g 20g Free 260gA.jpg" />
+    <Content Include="ProductImage\whisper choice 30 mrp 100 %25 stain protection.jpg" />
+    <Content Include="ProductImage\whisper choice 7 pads.jpg" />
+    <Content Include="ProductImage\whisper choice ultra 6 pads xl with wings.jpg" />
+    <Content Include="ProductImage\white till.jpg" />
+    <Content Include="ProductImage\wild stone 80 mrp 100 gm.jpg" />
+    <Content Include="ProductImage\wild stone ultra sensual 300 gm 180 mrp.jpg" />
+    <Content Include="ProductImage\wowmen horliks.jpg" />
+    <None Include="Scripts\jquery-1.7.1.intellisense.js" />
+    <Content Include="Scripts\jquery-1.7.1.js" />
+    <Content Include="Scripts\jquery-1.7.1.min.js" />
+    <None Include="Scripts\_references.js" />
+    <Content Include="SubCategoryMaster.aspx" />
+    <Content Include="checkout.html" />
+    <Content Include="css\bootstrap.css" />
+    <Content Include="css\creditly.css" />
+    <Content Include="css\easy-responsive-tabs.css" />
+    <Content Include="css\flexslider.css" />
+    <Content Include="css\font-awesome.css" />
+    <Content Include="css\jquery-ui1.css" />
+    <Content Include="css\popuo-box.css" />
+    <Content Include="css\style.css" />
+    <Content Include="fonts\fontawesome-webfont.svg" />
+    <Content Include="fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="Global.asax" />
+    <Content Include="HtmlPage1.html" />
+    <Content Include="images\1.png" />
+    <Content Include="images\2.png" />
+    <Content Include="images\a1.jpg" />
+    <Content Include="images\a10.jpg" />
+    <Content Include="images\a11.jpg" />
+    <Content Include="images\a12.jpg" />
+    <Content Include="images\a2.jpg" />
+    <Content Include="images\a3.jpg" />
+    <Content Include="images\a4.jpg" />
+    <Content Include="images\a5.jpg" />
+    <Content Include="images\a6.jpg" />
+    <Content Include="images\a7.jpg" />
+    <Content Include="images\a8.jpg" />
+    <Content Include="images\a9.jpg" />
+    <Content Include="images\about.jpg" />
+    <Content Include="images\about2.jpg" />
+    <Content Include="images\arrow.png" />
+    <Content Include="images\banner1.jpg" />
+    <Content Include="images\banner2.jpg" />
+    <Content Include="images\banner3.jpg" />
+    <Content Include="images\banner4.jpg" />
+    <Content Include="images\bg1.jpg" />
+    <Content Include="images\close_1.png" />
+    <Content Include="images\contact2.jpg" />
+    <Content Include="images\d1.jpg" />
+    <Content Include="images\d2.jpg" />
+    <Content Include="images\d3.jpg" />
+    <Content Include="images\d4.jpg" />
+    <Content Include="images\d5.jpg" />
+    <Content Include="images\k1.jpg" />
+    <Content Include="images\k10.jpg" />
+    <Content Include="images\k11.jpg" />
+    <Content Include="images\k12.jpg" />
+    <Content Include="images\k2.jpg" />
+    <Content Include="images\k3.jpg" />
+    <Content Include="images\k4.jpg" />
+    <Content Include="images\k5.jpg" />
+    <Content Include="images\k6.jpg" />
+    <Content Include="images\k7.jpg" />
+    <Content Include="images\k8.jpg" />
+    <Content Include="images\k9.jpg" />
+    <Content Include="images\left.png" />
+    <Content Include="images\logo2.png" />
+    <Content Include="images\m1.jpg" />
+    <Content Include="images\m2.jpg" />
+    <Content Include="images\m3.jpg" />
+    <Content Include="images\mk4.jpg" />
+    <Content Include="images\mk5.jpg" />
+    <Content Include="images\mk6.jpg" />
+    <Content Include="images\mk7.jpg" />
+    <Content Include="images\mk8.jpg" />
+    <Content Include="images\mk9.jpg" />
+    <Content Include="images\move-up.png" />
+    <Content Include="images\nav.png" />
+    <Content Include="images\nut1.png" />
+    <Content Include="images\pay1.png" />
+    <Content Include="images\pay2.png" />
+    <Content Include="images\pay3.png" />
+    <Content Include="images\pay4.png" />
+    <Content Include="images\pay5.png" />
+    <Content Include="images\pay6.png" />
+    <Content Include="images\pay7.png" />
+    <Content Include="images\pay8.png" />
+    <Content Include="images\pay9.png" />
+    <Content Include="images\paypal.png" />
+    <Content Include="images\right.png" />
+    <Content Include="images\s1.jpg" />
+    <Content Include="images\s2.jpg" />
+    <Content Include="images\s3.jpg" />
+    <Content Include="images\s4.jpg" />
+    <Content Include="images\s5.jpg" />
+    <Content Include="images\s6.jpg" />
+    <Content Include="images\s7.jpg" />
+    <Content Include="images\s8.jpg" />
+    <Content Include="images\s9.jpg" />
+    <Content Include="images\se1.jpg" />
+    <Content Include="images\se2.jpg" />
+    <Content Include="images\se3.jpg" />
+    <Content Include="images\search.png" />
+    <Content Include="images\si.jpg" />
+    <Content Include="images\si2.jpg" />
+    <Content Include="images\si3.jpg" />
+    <Content Include="images\star1.png" />
+    <Content Include="images\star22.png" />
+    <Content Include="images\tab3.png" />
+    <Content Include="images\videoimg2.png" />
+    <Content Include="CategoryMaster.aspx" />
+    <Content Include="ImageUpload.aspx" />
+    <Content Include="js\bootstrap.js" />
+    <Content Include="js\creditly.js" />
+    <Content Include="js\easing.js" />
+    <Content Include="js\easyResponsiveTabs.js" />
+    <Content Include="js\imagezoom.js" />
+    <Content Include="js\jquery-2.1.4.min.js" />
+    <Content Include="js\jquery-ui.js" />
+    <Content Include="js\jquery.flexisel.js" />
+    <Content Include="js\jquery.flexslider.js" />
+    <Content Include="js\jquery.magnific-popup.js" />
+    <Content Include="js\minicart.js" />
+    <Content Include="js\move-top.js" />
+    <Content Include="js\SmoothScroll.min.js" />
+    <Content Include="Product.aspx" />
+    <Content Include="Single.aspx" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Checkout.aspx" />
+    <Content Include="Contact.aspx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DashboardCustomer.aspx.cs">
+      <DependentUpon>DashboardCustomer.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DashboardCustomer.aspx.designer.cs">
+      <DependentUpon>DashboardCustomer.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Dashboard.aspx.cs">
+      <DependentUpon>Dashboard.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Dashboard.aspx.designer.cs">
+      <DependentUpon>Dashboard.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AdminPanel.aspx.cs">
+      <DependentUpon>AdminPanel.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AdminPanel.aspx.designer.cs">
+      <DependentUpon>AdminPanel.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AppCode\Class1.cs" />
+    <Compile Include="AppCode\GlobalVariables.cs" />
+    <Compile Include="AppCode\MessageBoxcs.cs" />
+    <Compile Include="AppCode\MyDataConnection.cs" />
+    <Compile Include="Default.aspx.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Default.aspx.designer.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Edit_Form_C_Individual.aspx.cs">
+      <DependentUpon>Edit_Form_C_Individual.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Edit_Form_C_Individual.aspx.designer.cs">
+      <DependentUpon>Edit_Form_C_Individual.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Edit_Form_C_Society.aspx.cs">
+      <DependentUpon>Edit_Form_C_Society.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Edit_Form_C_Society.aspx.designer.cs">
+      <DependentUpon>Edit_Form_C_Society.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Edit_Form_D_Individual.aspx.cs">
+      <DependentUpon>Edit_Form_D_Individual.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Edit_Form_D_Individual.aspx.designer.cs">
+      <DependentUpon>Edit_Form_D_Individual.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Edit_Form_D_Society.aspx.cs">
+      <DependentUpon>Edit_Form_D_Society.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Edit_Form_D_Society.aspx.designer.cs">
+      <DependentUpon>Edit_Form_D_Society.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="E_commerce.aspx.cs">
+      <DependentUpon>E_commerce.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="E_commerce.aspx.designer.cs">
+      <DependentUpon>E_commerce.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="FormC_Individual.aspx.cs">
+      <DependentUpon>FormC_Individual.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="FormC_Individual.aspx.designer.cs">
+      <DependentUpon>FormC_Individual.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Form_C_Society.aspx.cs">
+      <DependentUpon>Form_C_Society.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Form_C_Society.aspx.designer.cs">
+      <DependentUpon>Form_C_Society.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Form_D_Individual.aspx.cs">
+      <DependentUpon>Form_D_Individual.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Form_D_Individual.aspx.designer.cs">
+      <DependentUpon>Form_D_Individual.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Form_D_Society.aspx.cs">
+      <DependentUpon>Form_D_Society.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Form_D_Society.aspx.designer.cs">
+      <DependentUpon>Form_D_Society.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ItemMasterAdmin.aspx.cs">
+      <DependentUpon>ItemMasterAdmin.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ItemMasterAdmin.aspx.designer.cs">
+      <DependentUpon>ItemMasterAdmin.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ItemMasterSakav.aspx.cs">
+      <DependentUpon>ItemMasterSakav.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ItemMasterSakav.aspx.designer.cs">
+      <DependentUpon>ItemMasterSakav.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Login.aspx.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Login.aspx.designer.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MemberList.aspx.cs">
+      <DependentUpon>MemberList.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MemberList.aspx.designer.cs">
+      <DependentUpon>MemberList.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MyOrder.aspx.cs">
+      <DependentUpon>MyOrder.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MyOrder.aspx.designer.cs">
+      <DependentUpon>MyOrder.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MyOrderDetail.aspx.cs">
+      <DependentUpon>MyOrderDetail.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MyOrderDetail.aspx.designer.cs">
+      <DependentUpon>MyOrderDetail.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Popup.aspx.cs">
+      <DependentUpon>Popup.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Popup.aspx.designer.cs">
+      <DependentUpon>Popup.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Receipt.aspx.cs">
+      <DependentUpon>Receipt.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Receipt.aspx.designer.cs">
+      <DependentUpon>Receipt.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="OrderDetail.aspx.cs">
+      <DependentUpon>OrderDetail.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="OrderDetail.aspx.designer.cs">
+      <DependentUpon>OrderDetail.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="OrderMasterAdmin.aspx.cs">
+      <DependentUpon>OrderMasterAdmin.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="OrderMasterAdmin.aspx.designer.cs">
+      <DependentUpon>OrderMasterAdmin.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ItemMaster.aspx.cs">
+      <DependentUpon>ItemMaster.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ItemMaster.aspx.designer.cs">
+      <DependentUpon>ItemMaster.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="OrderMaster.aspx.cs">
+      <DependentUpon>OrderMaster.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="OrderMaster.aspx.designer.cs">
+      <DependentUpon>OrderMaster.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Site1.Master.cs">
+      <DependentUpon>Site1.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Site1.Master.designer.cs">
+      <DependentUpon>Site1.Master</DependentUpon>
+    </Compile>
+    <Compile Include="SubCategoryMaster.aspx.cs">
+      <DependentUpon>SubCategoryMaster.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="SubCategoryMaster.aspx.designer.cs">
+      <DependentUpon>SubCategoryMaster.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Global.asax.cs">
+      <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="CategoryMaster.aspx.cs">
+      <DependentUpon>CategoryMaster.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CategoryMaster.aspx.designer.cs">
+      <DependentUpon>CategoryMaster.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ImageUpload.aspx.cs">
+      <DependentUpon>ImageUpload.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ImageUpload.aspx.designer.cs">
+      <DependentUpon>ImageUpload.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Product.aspx.cs">
+      <DependentUpon>Product.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Product.aspx.designer.cs">
+      <DependentUpon>Product.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Single.aspx.cs">
+      <DependentUpon>Single.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Single.aspx.designer.cs">
+      <DependentUpon>Single.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Checkout.aspx.cs">
+      <DependentUpon>Checkout.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Checkout.aspx.designer.cs">
+      <DependentUpon>Checkout.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Contact.aspx.cs">
+      <DependentUpon>Contact.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Contact.aspx.designer.cs">
+      <DependentUpon>Contact.aspx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="fonts\fontawesome-webfont.eot" />
+    <Content Include="fonts\fontawesome-webfont.ttf" />
+    <Content Include="fonts\fontawesome-webfont.woff" />
+    <Content Include="fonts\fontawesome-webfont.woff2" />
+    <Content Include="fonts\FontAwesome.otf" />
+    <Content Include="fonts\glyphicons-halflings-regular.eot" />
+    <Content Include="fonts\glyphicons-halflings-regular.ttf" />
+    <Content Include="fonts\glyphicons-halflings-regular.woff" />
+    <Content Include="fonts\glyphicons-halflings-regular.woff2" />
+    <Content Include="dist\css\adminlte.css.map" />
+    <Content Include="dist\css\adminlte.min.css.map" />
+    <Content Include="dist\css\alt\adminlte.components.css.map" />
+    <Content Include="dist\css\alt\adminlte.components.min.css.map" />
+    <Content Include="dist\css\alt\adminlte.core.css.map" />
+    <Content Include="dist\css\alt\adminlte.core.min.css.map" />
+    <Content Include="dist\css\alt\adminlte.extra-components.css.map" />
+    <Content Include="dist\css\alt\adminlte.extra-components.min.css.map" />
+    <Content Include="dist\css\alt\adminlte.pages.css.map" />
+    <Content Include="dist\css\alt\adminlte.pages.min.css.map" />
+    <Content Include="dist\css\alt\adminlte.plugins.css.map" />
+    <Content Include="dist\css\alt\adminlte.plugins.min.css.map" />
+    <Content Include="dist\js\adminlte.js.map" />
+    <Content Include="dist\js\adminlte.min.js.map" />
+    <None Include="packages.config" />
+    <Content Include="ProductImage\fortune 15.webp" />
+    <Content Include="ProductImage\maggi 2 minute masala instant noodles 280 gm.webp" />
+    <Content Include="ProductImage\maggi 2 minute masala noodes 420 gm.webp" />
+    <Content Include="ProductImage\maggi 2 minute oats instant masala noodles 292 gm.webp" />
+    <Content Include="ProductImage\tulsi &amp; neem 45 mrp.webp" />
+    <None Include="Properties\PublishProfiles\CustomProfile.pubxml" />
+    <Content Include="Site1.Master" />
+    <None Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <None Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="css2\inner_css\" />
+    <Folder Include="ImageFront\" />
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>51213</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost:51213/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+    <MonoDevelop>
+      <Properties>
+        <XspParameters Port="8080" Address="127.0.0.1" SslMode="None" SslProtocol="Default" KeyType="None" CertFile="" KeyFile="" PasswordOptions="None" Password="" Verbose="True" />
+      </Properties>
+    </MonoDevelop>
+  </ProjectExtensions>
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props'))" />
+  </Target>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

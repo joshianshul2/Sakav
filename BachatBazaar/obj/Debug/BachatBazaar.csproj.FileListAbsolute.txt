@@ -1,0 +1,1180 @@
+E:/Sinha/VbProjects/BachatBazaar/BachatBazaar/BachatBazaar/obj/Debug/BachatBazaar.csproj.CoreCompileInputs.cache
+E:/Sinha/VbProjects/BachatBazaar/BachatBazaar/BachatBazaar/bin/BachatBazaar.dll.config
+E:/Sinha/VbProjects/BachatBazaar/BachatBazaar/BachatBazaar/bin/BachatBazaar.dll
+E:/Sinha/VbProjects/BachatBazaar/BachatBazaar/BachatBazaar/bin/BachatBazaar.pdb
+E:/Sinha/VbProjects/BachatBazaar/BachatBazaar/BachatBazaar/bin/roslyn/csc.exe
+E:/Sinha/VbProjects/BachatBazaar/BachatBazaar/BachatBazaar/bin/roslyn/csc.exe.config
+E:/Sinha/VbProjects/BachatBazaar/BachatBazaar/BachatBazaar/bin/roslyn/csc.rsp
+E:/Sinha/VbProjects/BachatBazaar/BachatBazaar/BachatBazaar/bin/roslyn/csi.exe
+E:/Sinha/VbProjects/BachatBazaar/BachatBazaar/BachatBazaar/bin/roslyn/csi.exe.config
+E:/Sinha/VbProjects/BachatBazaar/BachatBazaar/BachatBazaar/bin/roslyn/csi.rsp
+E:/Sinha/VbProjects/BachatBazaar/BachatBazaar/BachatBazaar/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+E:/Sinha/VbProjects/BachatBazaar/BachatBazaar/BachatBazaar/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+E:/Sinha/VbProjects/BachatBazaar/BachatBazaar/BachatBazaar/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:/Sinha/VbProjects/BachatBazaar/BachatBazaar/BachatBazaar/bin/roslyn/Microsoft.CodeAnalysis.dll
+E:/Sinha/VbProjects/BachatBazaar/BachatBazaar/BachatBazaar/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
+E:/Sinha/VbProjects/BachatBazaar/BachatBazaar/BachatBazaar/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+E:/Sinha/VbProjects/BachatBazaar/BachatBazaar/BachatBazaar/bin/roslyn/Microsoft.CSharp.Core.targets
+E:/Sinha/VbProjects/BachatBazaar/BachatBazaar/BachatBazaar/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+E:/Sinha/VbProjects/BachatBazaar/BachatBazaar/BachatBazaar/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
+E:/Sinha/VbProjects/BachatBazaar/BachatBazaar/BachatBazaar/bin/roslyn/Microsoft.Managed.Core.targets
+E:/Sinha/VbProjects/BachatBazaar/BachatBazaar/BachatBazaar/bin/roslyn/Microsoft.VisualBasic.Core.targets
+E:/Sinha/VbProjects/BachatBazaar/BachatBazaar/BachatBazaar/bin/roslyn/System.AppContext.dll
+E:/Sinha/VbProjects/BachatBazaar/BachatBazaar/BachatBazaar/bin/roslyn/System.Collections.Immutable.dll
+E:/Sinha/VbProjects/BachatBazaar/BachatBazaar/BachatBazaar/bin/roslyn/System.Console.dll
+E:/Sinha/VbProjects/BachatBazaar/BachatBazaar/BachatBazaar/bin/roslyn/System.Diagnostics.FileVersionInfo.dll
+E:/Sinha/VbProjects/BachatBazaar/BachatBazaar/BachatBazaar/bin/roslyn/System.Diagnostics.StackTrace.dll
+E:/Sinha/VbProjects/BachatBazaar/BachatBazaar/BachatBazaar/bin/roslyn/System.IO.Compression.dll
+E:/Sinha/VbProjects/BachatBazaar/BachatBazaar/BachatBazaar/bin/roslyn/System.IO.FileSystem.dll
+E:/Sinha/VbProjects/BachatBazaar/BachatBazaar/BachatBazaar/bin/roslyn/System.IO.FileSystem.Primitives.dll
+E:/Sinha/VbProjects/BachatBazaar/BachatBazaar/BachatBazaar/bin/roslyn/System.IO.Pipes.AccessControl.dll
+E:/Sinha/VbProjects/BachatBazaar/BachatBazaar/BachatBazaar/bin/roslyn/System.IO.Pipes.dll
+E:/Sinha/VbProjects/BachatBazaar/BachatBazaar/BachatBazaar/bin/roslyn/System.Reflection.Metadata.dll
+E:/Sinha/VbProjects/BachatBazaar/BachatBazaar/BachatBazaar/bin/roslyn/System.Security.AccessControl.dll
+E:/Sinha/VbProjects/BachatBazaar/BachatBazaar/BachatBazaar/bin/roslyn/System.Security.Claims.dll
+E:/Sinha/VbProjects/BachatBazaar/BachatBazaar/BachatBazaar/bin/roslyn/System.Security.Cryptography.Algorithms.dll
+E:/Sinha/VbProjects/BachatBazaar/BachatBazaar/BachatBazaar/bin/roslyn/System.Security.Cryptography.Encoding.dll
+E:/Sinha/VbProjects/BachatBazaar/BachatBazaar/BachatBazaar/bin/roslyn/System.Security.Cryptography.Primitives.dll
+E:/Sinha/VbProjects/BachatBazaar/BachatBazaar/BachatBazaar/bin/roslyn/System.Security.Cryptography.X509Certificates.dll
+E:/Sinha/VbProjects/BachatBazaar/BachatBazaar/BachatBazaar/bin/roslyn/System.Security.Principal.Windows.dll
+E:/Sinha/VbProjects/BachatBazaar/BachatBazaar/BachatBazaar/bin/roslyn/System.Text.Encoding.CodePages.dll
+E:/Sinha/VbProjects/BachatBazaar/BachatBazaar/BachatBazaar/bin/roslyn/System.ValueTuple.dll
+E:/Sinha/VbProjects/BachatBazaar/BachatBazaar/BachatBazaar/bin/roslyn/System.Xml.ReaderWriter.dll
+E:/Sinha/VbProjects/BachatBazaar/BachatBazaar/BachatBazaar/bin/roslyn/System.Xml.XmlDocument.dll
+E:/Sinha/VbProjects/BachatBazaar/BachatBazaar/BachatBazaar/bin/roslyn/System.Xml.XPath.dll
+E:/Sinha/VbProjects/BachatBazaar/BachatBazaar/BachatBazaar/bin/roslyn/System.Xml.XPath.XDocument.dll
+E:/Sinha/VbProjects/BachatBazaar/BachatBazaar/BachatBazaar/bin/roslyn/vbc.exe
+E:/Sinha/VbProjects/BachatBazaar/BachatBazaar/BachatBazaar/bin/roslyn/vbc.exe.config
+E:/Sinha/VbProjects/BachatBazaar/BachatBazaar/BachatBazaar/bin/roslyn/vbc.rsp
+E:/Sinha/VbProjects/BachatBazaar/BachatBazaar/BachatBazaar/bin/roslyn/VBCSCompiler.exe
+E:/Sinha/VbProjects/BachatBazaar/BachatBazaar/BachatBazaar/bin/roslyn/VBCSCompiler.exe.config
+E:/Sinha/VbProjects/BachatBazaar/BachatBazaar/BachatBazaar/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:/Sinha/VbProjects/BachatBazaar/BachatBazaar/BachatBazaar/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:/Sinha/VbProjects/BachatBazaar/BachatBazaar/BachatBazaar/obj/Debug/BachatBazaar.csproj.CopyComplete
+E:/Sinha/VbProjects/BachatBazaar/BachatBazaar/BachatBazaar/obj/Debug/BachatBazaar.dll
+E:/Sinha/VbProjects/BachatBazaar/BachatBazaar/BachatBazaar/obj/Debug/BachatBazaar.pdb
+E:/Sinha/VbProjects/BachatBazaar/BachatBazaar/BachatBazaar/obj/Debug/BachatBazaar.csprojAssemblyReference.cache
+/Users/anshuljoshi/Downloads/17-12-20/BachatBazaar/BachatBazaar/bin/BachatBazaar.dll
+/Users/anshuljoshi/Downloads/17-12-20/BachatBazaar/BachatBazaar/bin/BachatBazaar.pdb
+/Users/anshuljoshi/Downloads/17-12-20/BachatBazaar/BachatBazaar/bin/roslyn/csc.exe
+/Users/anshuljoshi/Downloads/17-12-20/BachatBazaar/BachatBazaar/bin/roslyn/csc.exe.config
+/Users/anshuljoshi/Downloads/17-12-20/BachatBazaar/BachatBazaar/bin/roslyn/csc.rsp
+/Users/anshuljoshi/Downloads/17-12-20/BachatBazaar/BachatBazaar/bin/roslyn/csi.exe
+/Users/anshuljoshi/Downloads/17-12-20/BachatBazaar/BachatBazaar/bin/roslyn/csi.exe.config
+/Users/anshuljoshi/Downloads/17-12-20/BachatBazaar/BachatBazaar/bin/roslyn/csi.rsp
+/Users/anshuljoshi/Downloads/17-12-20/BachatBazaar/BachatBazaar/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+/Users/anshuljoshi/Downloads/17-12-20/BachatBazaar/BachatBazaar/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+/Users/anshuljoshi/Downloads/17-12-20/BachatBazaar/BachatBazaar/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+/Users/anshuljoshi/Downloads/17-12-20/BachatBazaar/BachatBazaar/bin/roslyn/Microsoft.CodeAnalysis.dll
+/Users/anshuljoshi/Downloads/17-12-20/BachatBazaar/BachatBazaar/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
+/Users/anshuljoshi/Downloads/17-12-20/BachatBazaar/BachatBazaar/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+/Users/anshuljoshi/Downloads/17-12-20/BachatBazaar/BachatBazaar/bin/roslyn/Microsoft.CSharp.Core.targets
+/Users/anshuljoshi/Downloads/17-12-20/BachatBazaar/BachatBazaar/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+/Users/anshuljoshi/Downloads/17-12-20/BachatBazaar/BachatBazaar/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
+/Users/anshuljoshi/Downloads/17-12-20/BachatBazaar/BachatBazaar/bin/roslyn/Microsoft.Managed.Core.targets
+/Users/anshuljoshi/Downloads/17-12-20/BachatBazaar/BachatBazaar/bin/roslyn/Microsoft.VisualBasic.Core.targets
+/Users/anshuljoshi/Downloads/17-12-20/BachatBazaar/BachatBazaar/bin/roslyn/System.AppContext.dll
+/Users/anshuljoshi/Downloads/17-12-20/BachatBazaar/BachatBazaar/bin/roslyn/System.Collections.Immutable.dll
+/Users/anshuljoshi/Downloads/17-12-20/BachatBazaar/BachatBazaar/bin/roslyn/System.Console.dll
+/Users/anshuljoshi/Downloads/17-12-20/BachatBazaar/BachatBazaar/bin/roslyn/System.Diagnostics.FileVersionInfo.dll
+/Users/anshuljoshi/Downloads/17-12-20/BachatBazaar/BachatBazaar/bin/roslyn/System.Diagnostics.StackTrace.dll
+/Users/anshuljoshi/Downloads/17-12-20/BachatBazaar/BachatBazaar/bin/roslyn/System.IO.Compression.dll
+/Users/anshuljoshi/Downloads/17-12-20/BachatBazaar/BachatBazaar/bin/roslyn/System.IO.FileSystem.dll
+/Users/anshuljoshi/Downloads/17-12-20/BachatBazaar/BachatBazaar/bin/roslyn/System.IO.FileSystem.Primitives.dll
+/Users/anshuljoshi/Downloads/17-12-20/BachatBazaar/BachatBazaar/bin/roslyn/System.IO.Pipes.AccessControl.dll
+/Users/anshuljoshi/Downloads/17-12-20/BachatBazaar/BachatBazaar/bin/roslyn/System.IO.Pipes.dll
+/Users/anshuljoshi/Downloads/17-12-20/BachatBazaar/BachatBazaar/bin/roslyn/System.Reflection.Metadata.dll
+/Users/anshuljoshi/Downloads/17-12-20/BachatBazaar/BachatBazaar/bin/roslyn/System.Security.AccessControl.dll
+/Users/anshuljoshi/Downloads/17-12-20/BachatBazaar/BachatBazaar/bin/roslyn/System.Security.Claims.dll
+/Users/anshuljoshi/Downloads/17-12-20/BachatBazaar/BachatBazaar/bin/roslyn/System.Security.Cryptography.Algorithms.dll
+/Users/anshuljoshi/Downloads/17-12-20/BachatBazaar/BachatBazaar/bin/roslyn/System.Security.Cryptography.Encoding.dll
+/Users/anshuljoshi/Downloads/17-12-20/BachatBazaar/BachatBazaar/bin/roslyn/System.Security.Cryptography.Primitives.dll
+/Users/anshuljoshi/Downloads/17-12-20/BachatBazaar/BachatBazaar/bin/roslyn/System.Security.Cryptography.X509Certificates.dll
+/Users/anshuljoshi/Downloads/17-12-20/BachatBazaar/BachatBazaar/bin/roslyn/System.Security.Principal.Windows.dll
+/Users/anshuljoshi/Downloads/17-12-20/BachatBazaar/BachatBazaar/bin/roslyn/System.Text.Encoding.CodePages.dll
+/Users/anshuljoshi/Downloads/17-12-20/BachatBazaar/BachatBazaar/bin/roslyn/System.ValueTuple.dll
+/Users/anshuljoshi/Downloads/17-12-20/BachatBazaar/BachatBazaar/bin/roslyn/System.Xml.ReaderWriter.dll
+/Users/anshuljoshi/Downloads/17-12-20/BachatBazaar/BachatBazaar/bin/roslyn/System.Xml.XmlDocument.dll
+/Users/anshuljoshi/Downloads/17-12-20/BachatBazaar/BachatBazaar/bin/roslyn/System.Xml.XPath.dll
+/Users/anshuljoshi/Downloads/17-12-20/BachatBazaar/BachatBazaar/bin/roslyn/System.Xml.XPath.XDocument.dll
+/Users/anshuljoshi/Downloads/17-12-20/BachatBazaar/BachatBazaar/bin/roslyn/vbc.exe
+/Users/anshuljoshi/Downloads/17-12-20/BachatBazaar/BachatBazaar/bin/roslyn/vbc.exe.config
+/Users/anshuljoshi/Downloads/17-12-20/BachatBazaar/BachatBazaar/bin/roslyn/vbc.rsp
+/Users/anshuljoshi/Downloads/17-12-20/BachatBazaar/BachatBazaar/bin/roslyn/VBCSCompiler.exe
+/Users/anshuljoshi/Downloads/17-12-20/BachatBazaar/BachatBazaar/bin/roslyn/VBCSCompiler.exe.config
+/Users/anshuljoshi/Downloads/17-12-20/BachatBazaar/BachatBazaar/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+/Users/anshuljoshi/Downloads/17-12-20/BachatBazaar/BachatBazaar/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+/Users/anshuljoshi/Downloads/17-12-20/BachatBazaar/BachatBazaar/obj/Debug/BachatBazaar.csprojAssemblyReference.cache
+/Users/anshuljoshi/Downloads/17-12-20/BachatBazaar/BachatBazaar/obj/Debug/BachatBazaar.csproj.CoreCompileInputs.cache
+/Users/anshuljoshi/Downloads/17-12-20/BachatBazaar/BachatBazaar/obj/Debug/BachatBazaar.csproj.CopyComplete
+/Users/anshuljoshi/Downloads/17-12-20/BachatBazaar/BachatBazaar/obj/Debug/BachatBazaar.dll
+/Users/anshuljoshi/Downloads/17-12-20/BachatBazaar/BachatBazaar/obj/Debug/BachatBazaar.pdb
+E:/aj/17-12-20/BachatBazaar/BachatBazaar/bin/BachatBazaar.dll.config
+E:/aj/17-12-20/BachatBazaar/BachatBazaar/bin/BachatBazaar.dll
+E:/aj/17-12-20/BachatBazaar/BachatBazaar/bin/BachatBazaar.pdb
+E:/aj/17-12-20/BachatBazaar/BachatBazaar/bin/roslyn/csc.exe
+E:/aj/17-12-20/BachatBazaar/BachatBazaar/bin/roslyn/csc.exe.config
+E:/aj/17-12-20/BachatBazaar/BachatBazaar/bin/roslyn/csc.rsp
+E:/aj/17-12-20/BachatBazaar/BachatBazaar/bin/roslyn/csi.exe
+E:/aj/17-12-20/BachatBazaar/BachatBazaar/bin/roslyn/csi.exe.config
+E:/aj/17-12-20/BachatBazaar/BachatBazaar/bin/roslyn/csi.rsp
+E:/aj/17-12-20/BachatBazaar/BachatBazaar/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+E:/aj/17-12-20/BachatBazaar/BachatBazaar/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+E:/aj/17-12-20/BachatBazaar/BachatBazaar/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:/aj/17-12-20/BachatBazaar/BachatBazaar/bin/roslyn/Microsoft.CodeAnalysis.dll
+E:/aj/17-12-20/BachatBazaar/BachatBazaar/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
+E:/aj/17-12-20/BachatBazaar/BachatBazaar/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+E:/aj/17-12-20/BachatBazaar/BachatBazaar/bin/roslyn/Microsoft.CSharp.Core.targets
+E:/aj/17-12-20/BachatBazaar/BachatBazaar/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+E:/aj/17-12-20/BachatBazaar/BachatBazaar/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
+E:/aj/17-12-20/BachatBazaar/BachatBazaar/bin/roslyn/Microsoft.Managed.Core.targets
+E:/aj/17-12-20/BachatBazaar/BachatBazaar/bin/roslyn/Microsoft.VisualBasic.Core.targets
+E:/aj/17-12-20/BachatBazaar/BachatBazaar/bin/roslyn/System.AppContext.dll
+E:/aj/17-12-20/BachatBazaar/BachatBazaar/bin/roslyn/System.Collections.Immutable.dll
+E:/aj/17-12-20/BachatBazaar/BachatBazaar/bin/roslyn/System.Console.dll
+E:/aj/17-12-20/BachatBazaar/BachatBazaar/bin/roslyn/System.Diagnostics.FileVersionInfo.dll
+E:/aj/17-12-20/BachatBazaar/BachatBazaar/bin/roslyn/System.Diagnostics.StackTrace.dll
+E:/aj/17-12-20/BachatBazaar/BachatBazaar/bin/roslyn/System.IO.Compression.dll
+E:/aj/17-12-20/BachatBazaar/BachatBazaar/bin/roslyn/System.IO.FileSystem.dll
+E:/aj/17-12-20/BachatBazaar/BachatBazaar/bin/roslyn/System.IO.FileSystem.Primitives.dll
+E:/aj/17-12-20/BachatBazaar/BachatBazaar/bin/roslyn/System.IO.Pipes.AccessControl.dll
+E:/aj/17-12-20/BachatBazaar/BachatBazaar/bin/roslyn/System.IO.Pipes.dll
+E:/aj/17-12-20/BachatBazaar/BachatBazaar/bin/roslyn/System.Reflection.Metadata.dll
+E:/aj/17-12-20/BachatBazaar/BachatBazaar/bin/roslyn/System.Security.AccessControl.dll
+E:/aj/17-12-20/BachatBazaar/BachatBazaar/bin/roslyn/System.Security.Claims.dll
+E:/aj/17-12-20/BachatBazaar/BachatBazaar/bin/roslyn/System.Security.Cryptography.Algorithms.dll
+E:/aj/17-12-20/BachatBazaar/BachatBazaar/bin/roslyn/System.Security.Cryptography.Encoding.dll
+E:/aj/17-12-20/BachatBazaar/BachatBazaar/bin/roslyn/System.Security.Cryptography.Primitives.dll
+E:/aj/17-12-20/BachatBazaar/BachatBazaar/bin/roslyn/System.Security.Cryptography.X509Certificates.dll
+E:/aj/17-12-20/BachatBazaar/BachatBazaar/bin/roslyn/System.Security.Principal.Windows.dll
+E:/aj/17-12-20/BachatBazaar/BachatBazaar/bin/roslyn/System.Text.Encoding.CodePages.dll
+E:/aj/17-12-20/BachatBazaar/BachatBazaar/bin/roslyn/System.ValueTuple.dll
+E:/aj/17-12-20/BachatBazaar/BachatBazaar/bin/roslyn/System.Xml.ReaderWriter.dll
+E:/aj/17-12-20/BachatBazaar/BachatBazaar/bin/roslyn/System.Xml.XmlDocument.dll
+E:/aj/17-12-20/BachatBazaar/BachatBazaar/bin/roslyn/System.Xml.XPath.dll
+E:/aj/17-12-20/BachatBazaar/BachatBazaar/bin/roslyn/System.Xml.XPath.XDocument.dll
+E:/aj/17-12-20/BachatBazaar/BachatBazaar/bin/roslyn/vbc.exe
+E:/aj/17-12-20/BachatBazaar/BachatBazaar/bin/roslyn/vbc.exe.config
+E:/aj/17-12-20/BachatBazaar/BachatBazaar/bin/roslyn/vbc.rsp
+E:/aj/17-12-20/BachatBazaar/BachatBazaar/bin/roslyn/VBCSCompiler.exe
+E:/aj/17-12-20/BachatBazaar/BachatBazaar/bin/roslyn/VBCSCompiler.exe.config
+E:/aj/17-12-20/BachatBazaar/BachatBazaar/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:/aj/17-12-20/BachatBazaar/BachatBazaar/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:/aj/17-12-20/BachatBazaar/BachatBazaar/obj/Debug/BachatBazaar.csprojAssemblyReference.cache
+E:/aj/17-12-20/BachatBazaar/BachatBazaar/obj/Debug/BachatBazaar.csproj.CoreCompileInputs.cache
+E:/aj/17-12-20/BachatBazaar/BachatBazaar/obj/Debug/BachatBazaar.csproj.CopyComplete
+E:/aj/17-12-20/BachatBazaar/BachatBazaar/obj/Debug/BachatBazaar.dll
+E:/aj/17-12-20/BachatBazaar/BachatBazaar/obj/Debug/BachatBazaar.pdb
+/Users/anshuljoshi/Downloads/21-12-20 Bachat/BachatBazaar/BachatBazaar/obj/Debug/BachatBazaar.csprojAssemblyReference.cache
+/Users/anshuljoshi/Downloads/21-12-20 Bachat/BachatBazaar/BachatBazaar/obj/Debug/BachatBazaar.csproj.CoreCompileInputs.cache
+/Users/anshuljoshi/Downloads/21-12-20 Bachat/BachatBazaar/BachatBazaar/obj/Debug/BachatBazaar.dll
+/Users/anshuljoshi/Downloads/21-12-20 Bachat/BachatBazaar/BachatBazaar/obj/Debug/BachatBazaar.pdb
+/Users/anshuljoshi/Downloads/21-12-20 Bachat/BachatBazaar/BachatBazaar/bin/BachatBazaar.dll
+/Users/anshuljoshi/Downloads/21-12-20 Bachat/BachatBazaar/BachatBazaar/bin/BachatBazaar.pdb
+/Users/anshuljoshi/Downloads/21-12-20 Bachat/BachatBazaar/BachatBazaar/bin/roslyn/csc.exe
+/Users/anshuljoshi/Downloads/21-12-20 Bachat/BachatBazaar/BachatBazaar/bin/roslyn/csc.exe.config
+/Users/anshuljoshi/Downloads/21-12-20 Bachat/BachatBazaar/BachatBazaar/bin/roslyn/csc.rsp
+/Users/anshuljoshi/Downloads/21-12-20 Bachat/BachatBazaar/BachatBazaar/bin/roslyn/csi.exe
+/Users/anshuljoshi/Downloads/21-12-20 Bachat/BachatBazaar/BachatBazaar/bin/roslyn/csi.exe.config
+/Users/anshuljoshi/Downloads/21-12-20 Bachat/BachatBazaar/BachatBazaar/bin/roslyn/csi.rsp
+/Users/anshuljoshi/Downloads/21-12-20 Bachat/BachatBazaar/BachatBazaar/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+/Users/anshuljoshi/Downloads/21-12-20 Bachat/BachatBazaar/BachatBazaar/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+/Users/anshuljoshi/Downloads/21-12-20 Bachat/BachatBazaar/BachatBazaar/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+/Users/anshuljoshi/Downloads/21-12-20 Bachat/BachatBazaar/BachatBazaar/bin/roslyn/Microsoft.CodeAnalysis.dll
+/Users/anshuljoshi/Downloads/21-12-20 Bachat/BachatBazaar/BachatBazaar/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
+/Users/anshuljoshi/Downloads/21-12-20 Bachat/BachatBazaar/BachatBazaar/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+/Users/anshuljoshi/Downloads/21-12-20 Bachat/BachatBazaar/BachatBazaar/bin/roslyn/Microsoft.CSharp.Core.targets
+/Users/anshuljoshi/Downloads/21-12-20 Bachat/BachatBazaar/BachatBazaar/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+/Users/anshuljoshi/Downloads/21-12-20 Bachat/BachatBazaar/BachatBazaar/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
+/Users/anshuljoshi/Downloads/21-12-20 Bachat/BachatBazaar/BachatBazaar/bin/roslyn/Microsoft.Managed.Core.targets
+/Users/anshuljoshi/Downloads/21-12-20 Bachat/BachatBazaar/BachatBazaar/bin/roslyn/Microsoft.VisualBasic.Core.targets
+/Users/anshuljoshi/Downloads/21-12-20 Bachat/BachatBazaar/BachatBazaar/bin/roslyn/System.AppContext.dll
+/Users/anshuljoshi/Downloads/21-12-20 Bachat/BachatBazaar/BachatBazaar/bin/roslyn/System.Collections.Immutable.dll
+/Users/anshuljoshi/Downloads/21-12-20 Bachat/BachatBazaar/BachatBazaar/bin/roslyn/System.Console.dll
+/Users/anshuljoshi/Downloads/21-12-20 Bachat/BachatBazaar/BachatBazaar/bin/roslyn/System.Diagnostics.FileVersionInfo.dll
+/Users/anshuljoshi/Downloads/21-12-20 Bachat/BachatBazaar/BachatBazaar/bin/roslyn/System.Diagnostics.StackTrace.dll
+/Users/anshuljoshi/Downloads/21-12-20 Bachat/BachatBazaar/BachatBazaar/bin/roslyn/System.IO.Compression.dll
+/Users/anshuljoshi/Downloads/21-12-20 Bachat/BachatBazaar/BachatBazaar/bin/roslyn/System.IO.FileSystem.dll
+/Users/anshuljoshi/Downloads/21-12-20 Bachat/BachatBazaar/BachatBazaar/bin/roslyn/System.IO.FileSystem.Primitives.dll
+/Users/anshuljoshi/Downloads/21-12-20 Bachat/BachatBazaar/BachatBazaar/bin/roslyn/System.IO.Pipes.AccessControl.dll
+/Users/anshuljoshi/Downloads/21-12-20 Bachat/BachatBazaar/BachatBazaar/bin/roslyn/System.IO.Pipes.dll
+/Users/anshuljoshi/Downloads/21-12-20 Bachat/BachatBazaar/BachatBazaar/bin/roslyn/System.Reflection.Metadata.dll
+/Users/anshuljoshi/Downloads/21-12-20 Bachat/BachatBazaar/BachatBazaar/bin/roslyn/System.Security.AccessControl.dll
+/Users/anshuljoshi/Downloads/21-12-20 Bachat/BachatBazaar/BachatBazaar/bin/roslyn/System.Security.Claims.dll
+/Users/anshuljoshi/Downloads/21-12-20 Bachat/BachatBazaar/BachatBazaar/bin/roslyn/System.Security.Cryptography.Algorithms.dll
+/Users/anshuljoshi/Downloads/21-12-20 Bachat/BachatBazaar/BachatBazaar/bin/roslyn/System.Security.Cryptography.Encoding.dll
+/Users/anshuljoshi/Downloads/21-12-20 Bachat/BachatBazaar/BachatBazaar/bin/roslyn/System.Security.Cryptography.Primitives.dll
+/Users/anshuljoshi/Downloads/21-12-20 Bachat/BachatBazaar/BachatBazaar/bin/roslyn/System.Security.Cryptography.X509Certificates.dll
+/Users/anshuljoshi/Downloads/21-12-20 Bachat/BachatBazaar/BachatBazaar/bin/roslyn/System.Security.Principal.Windows.dll
+/Users/anshuljoshi/Downloads/21-12-20 Bachat/BachatBazaar/BachatBazaar/bin/roslyn/System.Text.Encoding.CodePages.dll
+/Users/anshuljoshi/Downloads/21-12-20 Bachat/BachatBazaar/BachatBazaar/bin/roslyn/System.ValueTuple.dll
+/Users/anshuljoshi/Downloads/21-12-20 Bachat/BachatBazaar/BachatBazaar/bin/roslyn/System.Xml.ReaderWriter.dll
+/Users/anshuljoshi/Downloads/21-12-20 Bachat/BachatBazaar/BachatBazaar/bin/roslyn/System.Xml.XmlDocument.dll
+/Users/anshuljoshi/Downloads/21-12-20 Bachat/BachatBazaar/BachatBazaar/bin/roslyn/System.Xml.XPath.dll
+/Users/anshuljoshi/Downloads/21-12-20 Bachat/BachatBazaar/BachatBazaar/bin/roslyn/System.Xml.XPath.XDocument.dll
+/Users/anshuljoshi/Downloads/21-12-20 Bachat/BachatBazaar/BachatBazaar/bin/roslyn/vbc.exe
+/Users/anshuljoshi/Downloads/21-12-20 Bachat/BachatBazaar/BachatBazaar/bin/roslyn/vbc.exe.config
+/Users/anshuljoshi/Downloads/21-12-20 Bachat/BachatBazaar/BachatBazaar/bin/roslyn/vbc.rsp
+/Users/anshuljoshi/Downloads/21-12-20 Bachat/BachatBazaar/BachatBazaar/bin/roslyn/VBCSCompiler.exe
+/Users/anshuljoshi/Downloads/21-12-20 Bachat/BachatBazaar/BachatBazaar/bin/roslyn/VBCSCompiler.exe.config
+/Users/anshuljoshi/Downloads/21-12-20 Bachat/BachatBazaar/BachatBazaar/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+/Users/anshuljoshi/Downloads/21-12-20 Bachat/BachatBazaar/BachatBazaar/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+/Users/anshuljoshi/Downloads/21-12-20 Bachat/BachatBazaar/BachatBazaar/obj/Debug/BachatBazaar.csproj.CopyComplete
+/Users/anshuljoshi/Downloads/22-12-20 Bachat/BachatBazaar/BachatBazaar/bin/BachatBazaar.dll
+/Users/anshuljoshi/Downloads/22-12-20 Bachat/BachatBazaar/BachatBazaar/bin/BachatBazaar.pdb
+/Users/anshuljoshi/Downloads/22-12-20 Bachat/BachatBazaar/BachatBazaar/bin/roslyn/csc.exe
+/Users/anshuljoshi/Downloads/22-12-20 Bachat/BachatBazaar/BachatBazaar/bin/roslyn/csc.exe.config
+/Users/anshuljoshi/Downloads/22-12-20 Bachat/BachatBazaar/BachatBazaar/bin/roslyn/csc.rsp
+/Users/anshuljoshi/Downloads/22-12-20 Bachat/BachatBazaar/BachatBazaar/bin/roslyn/csi.exe
+/Users/anshuljoshi/Downloads/22-12-20 Bachat/BachatBazaar/BachatBazaar/bin/roslyn/csi.exe.config
+/Users/anshuljoshi/Downloads/22-12-20 Bachat/BachatBazaar/BachatBazaar/bin/roslyn/csi.rsp
+/Users/anshuljoshi/Downloads/22-12-20 Bachat/BachatBazaar/BachatBazaar/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+/Users/anshuljoshi/Downloads/22-12-20 Bachat/BachatBazaar/BachatBazaar/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+/Users/anshuljoshi/Downloads/22-12-20 Bachat/BachatBazaar/BachatBazaar/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+/Users/anshuljoshi/Downloads/22-12-20 Bachat/BachatBazaar/BachatBazaar/bin/roslyn/Microsoft.CodeAnalysis.dll
+/Users/anshuljoshi/Downloads/22-12-20 Bachat/BachatBazaar/BachatBazaar/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
+/Users/anshuljoshi/Downloads/22-12-20 Bachat/BachatBazaar/BachatBazaar/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+/Users/anshuljoshi/Downloads/22-12-20 Bachat/BachatBazaar/BachatBazaar/bin/roslyn/Microsoft.CSharp.Core.targets
+/Users/anshuljoshi/Downloads/22-12-20 Bachat/BachatBazaar/BachatBazaar/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+/Users/anshuljoshi/Downloads/22-12-20 Bachat/BachatBazaar/BachatBazaar/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
+/Users/anshuljoshi/Downloads/22-12-20 Bachat/BachatBazaar/BachatBazaar/bin/roslyn/Microsoft.Managed.Core.targets
+/Users/anshuljoshi/Downloads/22-12-20 Bachat/BachatBazaar/BachatBazaar/bin/roslyn/Microsoft.VisualBasic.Core.targets
+/Users/anshuljoshi/Downloads/22-12-20 Bachat/BachatBazaar/BachatBazaar/bin/roslyn/System.AppContext.dll
+/Users/anshuljoshi/Downloads/22-12-20 Bachat/BachatBazaar/BachatBazaar/bin/roslyn/System.Collections.Immutable.dll
+/Users/anshuljoshi/Downloads/22-12-20 Bachat/BachatBazaar/BachatBazaar/bin/roslyn/System.Console.dll
+/Users/anshuljoshi/Downloads/22-12-20 Bachat/BachatBazaar/BachatBazaar/bin/roslyn/System.Diagnostics.FileVersionInfo.dll
+/Users/anshuljoshi/Downloads/22-12-20 Bachat/BachatBazaar/BachatBazaar/bin/roslyn/System.Diagnostics.StackTrace.dll
+/Users/anshuljoshi/Downloads/22-12-20 Bachat/BachatBazaar/BachatBazaar/bin/roslyn/System.IO.Compression.dll
+/Users/anshuljoshi/Downloads/22-12-20 Bachat/BachatBazaar/BachatBazaar/bin/roslyn/System.IO.FileSystem.dll
+/Users/anshuljoshi/Downloads/22-12-20 Bachat/BachatBazaar/BachatBazaar/bin/roslyn/System.IO.FileSystem.Primitives.dll
+/Users/anshuljoshi/Downloads/22-12-20 Bachat/BachatBazaar/BachatBazaar/bin/roslyn/System.IO.Pipes.AccessControl.dll
+/Users/anshuljoshi/Downloads/22-12-20 Bachat/BachatBazaar/BachatBazaar/bin/roslyn/System.IO.Pipes.dll
+/Users/anshuljoshi/Downloads/22-12-20 Bachat/BachatBazaar/BachatBazaar/bin/roslyn/System.Reflection.Metadata.dll
+/Users/anshuljoshi/Downloads/22-12-20 Bachat/BachatBazaar/BachatBazaar/bin/roslyn/System.Security.AccessControl.dll
+/Users/anshuljoshi/Downloads/22-12-20 Bachat/BachatBazaar/BachatBazaar/bin/roslyn/System.Security.Claims.dll
+/Users/anshuljoshi/Downloads/22-12-20 Bachat/BachatBazaar/BachatBazaar/bin/roslyn/System.Security.Cryptography.Algorithms.dll
+/Users/anshuljoshi/Downloads/22-12-20 Bachat/BachatBazaar/BachatBazaar/bin/roslyn/System.Security.Cryptography.Encoding.dll
+/Users/anshuljoshi/Downloads/22-12-20 Bachat/BachatBazaar/BachatBazaar/bin/roslyn/System.Security.Cryptography.Primitives.dll
+/Users/anshuljoshi/Downloads/22-12-20 Bachat/BachatBazaar/BachatBazaar/bin/roslyn/System.Security.Cryptography.X509Certificates.dll
+/Users/anshuljoshi/Downloads/22-12-20 Bachat/BachatBazaar/BachatBazaar/bin/roslyn/System.Security.Principal.Windows.dll
+/Users/anshuljoshi/Downloads/22-12-20 Bachat/BachatBazaar/BachatBazaar/bin/roslyn/System.Text.Encoding.CodePages.dll
+/Users/anshuljoshi/Downloads/22-12-20 Bachat/BachatBazaar/BachatBazaar/bin/roslyn/System.ValueTuple.dll
+/Users/anshuljoshi/Downloads/22-12-20 Bachat/BachatBazaar/BachatBazaar/bin/roslyn/System.Xml.ReaderWriter.dll
+/Users/anshuljoshi/Downloads/22-12-20 Bachat/BachatBazaar/BachatBazaar/bin/roslyn/System.Xml.XmlDocument.dll
+/Users/anshuljoshi/Downloads/22-12-20 Bachat/BachatBazaar/BachatBazaar/bin/roslyn/System.Xml.XPath.dll
+/Users/anshuljoshi/Downloads/22-12-20 Bachat/BachatBazaar/BachatBazaar/bin/roslyn/System.Xml.XPath.XDocument.dll
+/Users/anshuljoshi/Downloads/22-12-20 Bachat/BachatBazaar/BachatBazaar/bin/roslyn/vbc.exe
+/Users/anshuljoshi/Downloads/22-12-20 Bachat/BachatBazaar/BachatBazaar/bin/roslyn/vbc.exe.config
+/Users/anshuljoshi/Downloads/22-12-20 Bachat/BachatBazaar/BachatBazaar/bin/roslyn/vbc.rsp
+/Users/anshuljoshi/Downloads/22-12-20 Bachat/BachatBazaar/BachatBazaar/bin/roslyn/VBCSCompiler.exe
+/Users/anshuljoshi/Downloads/22-12-20 Bachat/BachatBazaar/BachatBazaar/bin/roslyn/VBCSCompiler.exe.config
+/Users/anshuljoshi/Downloads/22-12-20 Bachat/BachatBazaar/BachatBazaar/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+/Users/anshuljoshi/Downloads/22-12-20 Bachat/BachatBazaar/BachatBazaar/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+/Users/anshuljoshi/Downloads/22-12-20 Bachat/BachatBazaar/BachatBazaar/obj/Debug/BachatBazaar.csproj.CoreCompileInputs.cache
+/Users/anshuljoshi/Downloads/22-12-20 Bachat/BachatBazaar/BachatBazaar/obj/Debug/BachatBazaar.csproj.CopyComplete
+/Users/anshuljoshi/Downloads/22-12-20 Bachat/BachatBazaar/BachatBazaar/obj/Debug/BachatBazaar.dll
+/Users/anshuljoshi/Downloads/22-12-20 Bachat/BachatBazaar/BachatBazaar/obj/Debug/BachatBazaar.pdb
+/Users/anshuljoshi/Downloads/22-12-20 New Bachat Bazaar/BachatBazaar/BachatBazaar/bin/BachatBazaar.dll
+/Users/anshuljoshi/Downloads/22-12-20 New Bachat Bazaar/BachatBazaar/BachatBazaar/bin/BachatBazaar.pdb
+/Users/anshuljoshi/Downloads/22-12-20 New Bachat Bazaar/BachatBazaar/BachatBazaar/bin/roslyn/csc.exe
+/Users/anshuljoshi/Downloads/22-12-20 New Bachat Bazaar/BachatBazaar/BachatBazaar/bin/roslyn/csc.exe.config
+/Users/anshuljoshi/Downloads/22-12-20 New Bachat Bazaar/BachatBazaar/BachatBazaar/bin/roslyn/csc.rsp
+/Users/anshuljoshi/Downloads/22-12-20 New Bachat Bazaar/BachatBazaar/BachatBazaar/bin/roslyn/csi.exe
+/Users/anshuljoshi/Downloads/22-12-20 New Bachat Bazaar/BachatBazaar/BachatBazaar/bin/roslyn/csi.exe.config
+/Users/anshuljoshi/Downloads/22-12-20 New Bachat Bazaar/BachatBazaar/BachatBazaar/bin/roslyn/csi.rsp
+/Users/anshuljoshi/Downloads/22-12-20 New Bachat Bazaar/BachatBazaar/BachatBazaar/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+/Users/anshuljoshi/Downloads/22-12-20 New Bachat Bazaar/BachatBazaar/BachatBazaar/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+/Users/anshuljoshi/Downloads/22-12-20 New Bachat Bazaar/BachatBazaar/BachatBazaar/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+/Users/anshuljoshi/Downloads/22-12-20 New Bachat Bazaar/BachatBazaar/BachatBazaar/bin/roslyn/Microsoft.CodeAnalysis.dll
+/Users/anshuljoshi/Downloads/22-12-20 New Bachat Bazaar/BachatBazaar/BachatBazaar/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
+/Users/anshuljoshi/Downloads/22-12-20 New Bachat Bazaar/BachatBazaar/BachatBazaar/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+/Users/anshuljoshi/Downloads/22-12-20 New Bachat Bazaar/BachatBazaar/BachatBazaar/bin/roslyn/Microsoft.CSharp.Core.targets
+/Users/anshuljoshi/Downloads/22-12-20 New Bachat Bazaar/BachatBazaar/BachatBazaar/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+/Users/anshuljoshi/Downloads/22-12-20 New Bachat Bazaar/BachatBazaar/BachatBazaar/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
+/Users/anshuljoshi/Downloads/22-12-20 New Bachat Bazaar/BachatBazaar/BachatBazaar/bin/roslyn/Microsoft.Managed.Core.targets
+/Users/anshuljoshi/Downloads/22-12-20 New Bachat Bazaar/BachatBazaar/BachatBazaar/bin/roslyn/Microsoft.VisualBasic.Core.targets
+/Users/anshuljoshi/Downloads/22-12-20 New Bachat Bazaar/BachatBazaar/BachatBazaar/bin/roslyn/System.AppContext.dll
+/Users/anshuljoshi/Downloads/22-12-20 New Bachat Bazaar/BachatBazaar/BachatBazaar/bin/roslyn/System.Collections.Immutable.dll
+/Users/anshuljoshi/Downloads/22-12-20 New Bachat Bazaar/BachatBazaar/BachatBazaar/bin/roslyn/System.Console.dll
+/Users/anshuljoshi/Downloads/22-12-20 New Bachat Bazaar/BachatBazaar/BachatBazaar/bin/roslyn/System.Diagnostics.FileVersionInfo.dll
+/Users/anshuljoshi/Downloads/22-12-20 New Bachat Bazaar/BachatBazaar/BachatBazaar/bin/roslyn/System.Diagnostics.StackTrace.dll
+/Users/anshuljoshi/Downloads/22-12-20 New Bachat Bazaar/BachatBazaar/BachatBazaar/bin/roslyn/System.IO.Compression.dll
+/Users/anshuljoshi/Downloads/22-12-20 New Bachat Bazaar/BachatBazaar/BachatBazaar/bin/roslyn/System.IO.FileSystem.dll
+/Users/anshuljoshi/Downloads/22-12-20 New Bachat Bazaar/BachatBazaar/BachatBazaar/bin/roslyn/System.IO.FileSystem.Primitives.dll
+/Users/anshuljoshi/Downloads/22-12-20 New Bachat Bazaar/BachatBazaar/BachatBazaar/bin/roslyn/System.IO.Pipes.AccessControl.dll
+/Users/anshuljoshi/Downloads/22-12-20 New Bachat Bazaar/BachatBazaar/BachatBazaar/bin/roslyn/System.IO.Pipes.dll
+/Users/anshuljoshi/Downloads/22-12-20 New Bachat Bazaar/BachatBazaar/BachatBazaar/bin/roslyn/System.Reflection.Metadata.dll
+/Users/anshuljoshi/Downloads/22-12-20 New Bachat Bazaar/BachatBazaar/BachatBazaar/bin/roslyn/System.Security.AccessControl.dll
+/Users/anshuljoshi/Downloads/22-12-20 New Bachat Bazaar/BachatBazaar/BachatBazaar/bin/roslyn/System.Security.Claims.dll
+/Users/anshuljoshi/Downloads/22-12-20 New Bachat Bazaar/BachatBazaar/BachatBazaar/bin/roslyn/System.Security.Cryptography.Algorithms.dll
+/Users/anshuljoshi/Downloads/22-12-20 New Bachat Bazaar/BachatBazaar/BachatBazaar/bin/roslyn/System.Security.Cryptography.Encoding.dll
+/Users/anshuljoshi/Downloads/22-12-20 New Bachat Bazaar/BachatBazaar/BachatBazaar/bin/roslyn/System.Security.Cryptography.Primitives.dll
+/Users/anshuljoshi/Downloads/22-12-20 New Bachat Bazaar/BachatBazaar/BachatBazaar/bin/roslyn/System.Security.Cryptography.X509Certificates.dll
+/Users/anshuljoshi/Downloads/22-12-20 New Bachat Bazaar/BachatBazaar/BachatBazaar/bin/roslyn/System.Security.Principal.Windows.dll
+/Users/anshuljoshi/Downloads/22-12-20 New Bachat Bazaar/BachatBazaar/BachatBazaar/bin/roslyn/System.Text.Encoding.CodePages.dll
+/Users/anshuljoshi/Downloads/22-12-20 New Bachat Bazaar/BachatBazaar/BachatBazaar/bin/roslyn/System.ValueTuple.dll
+/Users/anshuljoshi/Downloads/22-12-20 New Bachat Bazaar/BachatBazaar/BachatBazaar/bin/roslyn/System.Xml.ReaderWriter.dll
+/Users/anshuljoshi/Downloads/22-12-20 New Bachat Bazaar/BachatBazaar/BachatBazaar/bin/roslyn/System.Xml.XmlDocument.dll
+/Users/anshuljoshi/Downloads/22-12-20 New Bachat Bazaar/BachatBazaar/BachatBazaar/bin/roslyn/System.Xml.XPath.dll
+/Users/anshuljoshi/Downloads/22-12-20 New Bachat Bazaar/BachatBazaar/BachatBazaar/bin/roslyn/System.Xml.XPath.XDocument.dll
+/Users/anshuljoshi/Downloads/22-12-20 New Bachat Bazaar/BachatBazaar/BachatBazaar/bin/roslyn/vbc.exe
+/Users/anshuljoshi/Downloads/22-12-20 New Bachat Bazaar/BachatBazaar/BachatBazaar/bin/roslyn/vbc.exe.config
+/Users/anshuljoshi/Downloads/22-12-20 New Bachat Bazaar/BachatBazaar/BachatBazaar/bin/roslyn/vbc.rsp
+/Users/anshuljoshi/Downloads/22-12-20 New Bachat Bazaar/BachatBazaar/BachatBazaar/bin/roslyn/VBCSCompiler.exe
+/Users/anshuljoshi/Downloads/22-12-20 New Bachat Bazaar/BachatBazaar/BachatBazaar/bin/roslyn/VBCSCompiler.exe.config
+/Users/anshuljoshi/Downloads/22-12-20 New Bachat Bazaar/BachatBazaar/BachatBazaar/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+/Users/anshuljoshi/Downloads/22-12-20 New Bachat Bazaar/BachatBazaar/BachatBazaar/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+/Users/anshuljoshi/Downloads/22-12-20 New Bachat Bazaar/BachatBazaar/BachatBazaar/obj/Debug/BachatBazaar.csprojAssemblyReference.cache
+/Users/anshuljoshi/Downloads/22-12-20 New Bachat Bazaar/BachatBazaar/BachatBazaar/obj/Debug/BachatBazaar.csproj.CoreCompileInputs.cache
+/Users/anshuljoshi/Downloads/22-12-20 New Bachat Bazaar/BachatBazaar/BachatBazaar/obj/Debug/BachatBazaar.csproj.CopyComplete
+/Users/anshuljoshi/Downloads/22-12-20 New Bachat Bazaar/BachatBazaar/BachatBazaar/obj/Debug/BachatBazaar.dll
+/Users/anshuljoshi/Downloads/22-12-20 New Bachat Bazaar/BachatBazaar/BachatBazaar/obj/Debug/BachatBazaar.pdb
+G:/2312/BachatBazaar/BachatBazaar/obj/Debug/BachatBazaar.dll
+G:/2312/BachatBazaar/BachatBazaar/obj/Debug/BachatBazaar.pdb
+E:/aj/BachatBazaar/BachatBazaar/bin/BachatBazaar.dll.config
+E:/aj/BachatBazaar/BachatBazaar/bin/BachatBazaar.dll
+E:/aj/BachatBazaar/BachatBazaar/bin/BachatBazaar.pdb
+E:/aj/BachatBazaar/BachatBazaar/bin/roslyn/csc.exe
+E:/aj/BachatBazaar/BachatBazaar/bin/roslyn/csc.exe.config
+E:/aj/BachatBazaar/BachatBazaar/bin/roslyn/csc.rsp
+E:/aj/BachatBazaar/BachatBazaar/bin/roslyn/csi.exe
+E:/aj/BachatBazaar/BachatBazaar/bin/roslyn/csi.exe.config
+E:/aj/BachatBazaar/BachatBazaar/bin/roslyn/csi.rsp
+E:/aj/BachatBazaar/BachatBazaar/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+E:/aj/BachatBazaar/BachatBazaar/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+E:/aj/BachatBazaar/BachatBazaar/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:/aj/BachatBazaar/BachatBazaar/bin/roslyn/Microsoft.CodeAnalysis.dll
+E:/aj/BachatBazaar/BachatBazaar/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
+E:/aj/BachatBazaar/BachatBazaar/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+E:/aj/BachatBazaar/BachatBazaar/bin/roslyn/Microsoft.CSharp.Core.targets
+E:/aj/BachatBazaar/BachatBazaar/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+E:/aj/BachatBazaar/BachatBazaar/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
+E:/aj/BachatBazaar/BachatBazaar/bin/roslyn/Microsoft.Managed.Core.targets
+E:/aj/BachatBazaar/BachatBazaar/bin/roslyn/Microsoft.VisualBasic.Core.targets
+E:/aj/BachatBazaar/BachatBazaar/bin/roslyn/System.AppContext.dll
+E:/aj/BachatBazaar/BachatBazaar/bin/roslyn/System.Collections.Immutable.dll
+E:/aj/BachatBazaar/BachatBazaar/bin/roslyn/System.Console.dll
+E:/aj/BachatBazaar/BachatBazaar/bin/roslyn/System.Diagnostics.FileVersionInfo.dll
+E:/aj/BachatBazaar/BachatBazaar/bin/roslyn/System.Diagnostics.StackTrace.dll
+E:/aj/BachatBazaar/BachatBazaar/bin/roslyn/System.IO.Compression.dll
+E:/aj/BachatBazaar/BachatBazaar/bin/roslyn/System.IO.FileSystem.dll
+E:/aj/BachatBazaar/BachatBazaar/bin/roslyn/System.IO.FileSystem.Primitives.dll
+E:/aj/BachatBazaar/BachatBazaar/bin/roslyn/System.IO.Pipes.AccessControl.dll
+E:/aj/BachatBazaar/BachatBazaar/bin/roslyn/System.IO.Pipes.dll
+E:/aj/BachatBazaar/BachatBazaar/bin/roslyn/System.Reflection.Metadata.dll
+E:/aj/BachatBazaar/BachatBazaar/bin/roslyn/System.Security.AccessControl.dll
+E:/aj/BachatBazaar/BachatBazaar/bin/roslyn/System.Security.Claims.dll
+E:/aj/BachatBazaar/BachatBazaar/bin/roslyn/System.Security.Cryptography.Algorithms.dll
+E:/aj/BachatBazaar/BachatBazaar/bin/roslyn/System.Security.Cryptography.Encoding.dll
+E:/aj/BachatBazaar/BachatBazaar/bin/roslyn/System.Security.Cryptography.Primitives.dll
+E:/aj/BachatBazaar/BachatBazaar/bin/roslyn/System.Security.Cryptography.X509Certificates.dll
+E:/aj/BachatBazaar/BachatBazaar/bin/roslyn/System.Security.Principal.Windows.dll
+E:/aj/BachatBazaar/BachatBazaar/bin/roslyn/System.Text.Encoding.CodePages.dll
+E:/aj/BachatBazaar/BachatBazaar/bin/roslyn/System.ValueTuple.dll
+E:/aj/BachatBazaar/BachatBazaar/bin/roslyn/System.Xml.ReaderWriter.dll
+E:/aj/BachatBazaar/BachatBazaar/bin/roslyn/System.Xml.XmlDocument.dll
+E:/aj/BachatBazaar/BachatBazaar/bin/roslyn/System.Xml.XPath.dll
+E:/aj/BachatBazaar/BachatBazaar/bin/roslyn/System.Xml.XPath.XDocument.dll
+E:/aj/BachatBazaar/BachatBazaar/bin/roslyn/vbc.exe
+E:/aj/BachatBazaar/BachatBazaar/bin/roslyn/vbc.exe.config
+E:/aj/BachatBazaar/BachatBazaar/bin/roslyn/vbc.rsp
+E:/aj/BachatBazaar/BachatBazaar/bin/roslyn/VBCSCompiler.exe
+E:/aj/BachatBazaar/BachatBazaar/bin/roslyn/VBCSCompiler.exe.config
+E:/aj/BachatBazaar/BachatBazaar/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:/aj/BachatBazaar/BachatBazaar/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:/aj/BachatBazaar/BachatBazaar/obj/Debug/BachatBazaar.csprojAssemblyReference.cache
+E:/aj/BachatBazaar/BachatBazaar/obj/Debug/BachatBazaar.csproj.CoreCompileInputs.cache
+E:/aj/BachatBazaar/BachatBazaar/obj/Debug/BachatBazaar.csproj.CopyComplete
+E:/aj/BachatBazaar/BachatBazaar/obj/Debug/BachatBazaar.dll
+E:/aj/BachatBazaar/BachatBazaar/obj/Debug/BachatBazaar.pdb
+/Users/anshuljoshi/BachatBazaar/BachatBazaar/bin/BachatBazaar.dll
+/Users/anshuljoshi/BachatBazaar/BachatBazaar/bin/BachatBazaar.pdb
+/Users/anshuljoshi/BachatBazaar/BachatBazaar/bin/roslyn/csc.exe
+/Users/anshuljoshi/BachatBazaar/BachatBazaar/bin/roslyn/csc.exe.config
+/Users/anshuljoshi/BachatBazaar/BachatBazaar/bin/roslyn/csc.rsp
+/Users/anshuljoshi/BachatBazaar/BachatBazaar/bin/roslyn/csi.exe
+/Users/anshuljoshi/BachatBazaar/BachatBazaar/bin/roslyn/csi.exe.config
+/Users/anshuljoshi/BachatBazaar/BachatBazaar/bin/roslyn/csi.rsp
+/Users/anshuljoshi/BachatBazaar/BachatBazaar/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+/Users/anshuljoshi/BachatBazaar/BachatBazaar/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+/Users/anshuljoshi/BachatBazaar/BachatBazaar/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+/Users/anshuljoshi/BachatBazaar/BachatBazaar/bin/roslyn/Microsoft.CodeAnalysis.dll
+/Users/anshuljoshi/BachatBazaar/BachatBazaar/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
+/Users/anshuljoshi/BachatBazaar/BachatBazaar/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+/Users/anshuljoshi/BachatBazaar/BachatBazaar/bin/roslyn/Microsoft.CSharp.Core.targets
+/Users/anshuljoshi/BachatBazaar/BachatBazaar/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+/Users/anshuljoshi/BachatBazaar/BachatBazaar/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
+/Users/anshuljoshi/BachatBazaar/BachatBazaar/bin/roslyn/Microsoft.Managed.Core.targets
+/Users/anshuljoshi/BachatBazaar/BachatBazaar/bin/roslyn/Microsoft.VisualBasic.Core.targets
+/Users/anshuljoshi/BachatBazaar/BachatBazaar/bin/roslyn/System.AppContext.dll
+/Users/anshuljoshi/BachatBazaar/BachatBazaar/bin/roslyn/System.Collections.Immutable.dll
+/Users/anshuljoshi/BachatBazaar/BachatBazaar/bin/roslyn/System.Console.dll
+/Users/anshuljoshi/BachatBazaar/BachatBazaar/bin/roslyn/System.Diagnostics.FileVersionInfo.dll
+/Users/anshuljoshi/BachatBazaar/BachatBazaar/bin/roslyn/System.Diagnostics.StackTrace.dll
+/Users/anshuljoshi/BachatBazaar/BachatBazaar/bin/roslyn/System.IO.Compression.dll
+/Users/anshuljoshi/BachatBazaar/BachatBazaar/bin/roslyn/System.IO.FileSystem.dll
+/Users/anshuljoshi/BachatBazaar/BachatBazaar/bin/roslyn/System.IO.FileSystem.Primitives.dll
+/Users/anshuljoshi/BachatBazaar/BachatBazaar/bin/roslyn/System.IO.Pipes.AccessControl.dll
+/Users/anshuljoshi/BachatBazaar/BachatBazaar/bin/roslyn/System.IO.Pipes.dll
+/Users/anshuljoshi/BachatBazaar/BachatBazaar/bin/roslyn/System.Reflection.Metadata.dll
+/Users/anshuljoshi/BachatBazaar/BachatBazaar/bin/roslyn/System.Security.AccessControl.dll
+/Users/anshuljoshi/BachatBazaar/BachatBazaar/bin/roslyn/System.Security.Claims.dll
+/Users/anshuljoshi/BachatBazaar/BachatBazaar/bin/roslyn/System.Security.Cryptography.Algorithms.dll
+/Users/anshuljoshi/BachatBazaar/BachatBazaar/bin/roslyn/System.Security.Cryptography.Encoding.dll
+/Users/anshuljoshi/BachatBazaar/BachatBazaar/bin/roslyn/System.Security.Cryptography.Primitives.dll
+/Users/anshuljoshi/BachatBazaar/BachatBazaar/bin/roslyn/System.Security.Cryptography.X509Certificates.dll
+/Users/anshuljoshi/BachatBazaar/BachatBazaar/bin/roslyn/System.Security.Principal.Windows.dll
+/Users/anshuljoshi/BachatBazaar/BachatBazaar/bin/roslyn/System.Text.Encoding.CodePages.dll
+/Users/anshuljoshi/BachatBazaar/BachatBazaar/bin/roslyn/System.ValueTuple.dll
+/Users/anshuljoshi/BachatBazaar/BachatBazaar/bin/roslyn/System.Xml.ReaderWriter.dll
+/Users/anshuljoshi/BachatBazaar/BachatBazaar/bin/roslyn/System.Xml.XmlDocument.dll
+/Users/anshuljoshi/BachatBazaar/BachatBazaar/bin/roslyn/System.Xml.XPath.dll
+/Users/anshuljoshi/BachatBazaar/BachatBazaar/bin/roslyn/System.Xml.XPath.XDocument.dll
+/Users/anshuljoshi/BachatBazaar/BachatBazaar/bin/roslyn/vbc.exe
+/Users/anshuljoshi/BachatBazaar/BachatBazaar/bin/roslyn/vbc.exe.config
+/Users/anshuljoshi/BachatBazaar/BachatBazaar/bin/roslyn/vbc.rsp
+/Users/anshuljoshi/BachatBazaar/BachatBazaar/bin/roslyn/VBCSCompiler.exe
+/Users/anshuljoshi/BachatBazaar/BachatBazaar/bin/roslyn/VBCSCompiler.exe.config
+/Users/anshuljoshi/BachatBazaar/BachatBazaar/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+/Users/anshuljoshi/BachatBazaar/BachatBazaar/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+/Users/anshuljoshi/BachatBazaar/BachatBazaar/obj/Debug/BachatBazaar.csprojAssemblyReference.cache
+/Users/anshuljoshi/BachatBazaar/BachatBazaar/obj/Debug/BachatBazaar.csproj.CoreCompileInputs.cache
+/Users/anshuljoshi/BachatBazaar/BachatBazaar/obj/Debug/BachatBazaar.csproj.CopyComplete
+/Users/anshuljoshi/BachatBazaar/BachatBazaar/obj/Debug/BachatBazaar.dll
+/Users/anshuljoshi/BachatBazaar/BachatBazaar/obj/Debug/BachatBazaar.pdb
+E:\aj\new bachat\BachatBazaar\BachatBazaar\bin\BachatBazaar.dll.config
+E:\aj\new bachat\BachatBazaar\BachatBazaar\bin\BachatBazaar.dll
+E:\aj\new bachat\BachatBazaar\BachatBazaar\bin\BachatBazaar.pdb
+E:\aj\new bachat\BachatBazaar\BachatBazaar\bin\roslyn\csc.exe
+E:\aj\new bachat\BachatBazaar\BachatBazaar\bin\roslyn\csc.exe.config
+E:\aj\new bachat\BachatBazaar\BachatBazaar\bin\roslyn\csc.rsp
+E:\aj\new bachat\BachatBazaar\BachatBazaar\bin\roslyn\csi.exe
+E:\aj\new bachat\BachatBazaar\BachatBazaar\bin\roslyn\csi.exe.config
+E:\aj\new bachat\BachatBazaar\BachatBazaar\bin\roslyn\csi.rsp
+E:\aj\new bachat\BachatBazaar\BachatBazaar\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\aj\new bachat\BachatBazaar\BachatBazaar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\aj\new bachat\BachatBazaar\BachatBazaar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\aj\new bachat\BachatBazaar\BachatBazaar\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\aj\new bachat\BachatBazaar\BachatBazaar\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\aj\new bachat\BachatBazaar\BachatBazaar\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\aj\new bachat\BachatBazaar\BachatBazaar\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\aj\new bachat\BachatBazaar\BachatBazaar\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\aj\new bachat\BachatBazaar\BachatBazaar\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\aj\new bachat\BachatBazaar\BachatBazaar\bin\roslyn\Microsoft.Managed.Core.targets
+E:\aj\new bachat\BachatBazaar\BachatBazaar\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\aj\new bachat\BachatBazaar\BachatBazaar\bin\roslyn\System.AppContext.dll
+E:\aj\new bachat\BachatBazaar\BachatBazaar\bin\roslyn\System.Collections.Immutable.dll
+E:\aj\new bachat\BachatBazaar\BachatBazaar\bin\roslyn\System.Console.dll
+E:\aj\new bachat\BachatBazaar\BachatBazaar\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\aj\new bachat\BachatBazaar\BachatBazaar\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\aj\new bachat\BachatBazaar\BachatBazaar\bin\roslyn\System.IO.Compression.dll
+E:\aj\new bachat\BachatBazaar\BachatBazaar\bin\roslyn\System.IO.FileSystem.dll
+E:\aj\new bachat\BachatBazaar\BachatBazaar\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\aj\new bachat\BachatBazaar\BachatBazaar\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\aj\new bachat\BachatBazaar\BachatBazaar\bin\roslyn\System.IO.Pipes.dll
+E:\aj\new bachat\BachatBazaar\BachatBazaar\bin\roslyn\System.Reflection.Metadata.dll
+E:\aj\new bachat\BachatBazaar\BachatBazaar\bin\roslyn\System.Security.AccessControl.dll
+E:\aj\new bachat\BachatBazaar\BachatBazaar\bin\roslyn\System.Security.Claims.dll
+E:\aj\new bachat\BachatBazaar\BachatBazaar\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\aj\new bachat\BachatBazaar\BachatBazaar\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\aj\new bachat\BachatBazaar\BachatBazaar\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\aj\new bachat\BachatBazaar\BachatBazaar\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\aj\new bachat\BachatBazaar\BachatBazaar\bin\roslyn\System.Security.Principal.Windows.dll
+E:\aj\new bachat\BachatBazaar\BachatBazaar\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\aj\new bachat\BachatBazaar\BachatBazaar\bin\roslyn\System.ValueTuple.dll
+E:\aj\new bachat\BachatBazaar\BachatBazaar\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\aj\new bachat\BachatBazaar\BachatBazaar\bin\roslyn\System.Xml.XmlDocument.dll
+E:\aj\new bachat\BachatBazaar\BachatBazaar\bin\roslyn\System.Xml.XPath.dll
+E:\aj\new bachat\BachatBazaar\BachatBazaar\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\aj\new bachat\BachatBazaar\BachatBazaar\bin\roslyn\vbc.exe
+E:\aj\new bachat\BachatBazaar\BachatBazaar\bin\roslyn\vbc.exe.config
+E:\aj\new bachat\BachatBazaar\BachatBazaar\bin\roslyn\vbc.rsp
+E:\aj\new bachat\BachatBazaar\BachatBazaar\bin\roslyn\VBCSCompiler.exe
+E:\aj\new bachat\BachatBazaar\BachatBazaar\bin\roslyn\VBCSCompiler.exe.config
+E:\aj\new bachat\BachatBazaar\BachatBazaar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\aj\new bachat\BachatBazaar\BachatBazaar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\aj\new bachat\BachatBazaar\BachatBazaar\obj\Debug\BachatBazaar.csprojAssemblyReference.cache
+E:\aj\new bachat\BachatBazaar\BachatBazaar\obj\Debug\BachatBazaar.csproj.CoreCompileInputs.cache
+E:\aj\new bachat\BachatBazaar\BachatBazaar\obj\Debug\BachatBazaar.csproj.CopyComplete
+E:\aj\new bachat\BachatBazaar\BachatBazaar\obj\Debug\BachatBazaar.dll
+E:\aj\new bachat\BachatBazaar\BachatBazaar\obj\Debug\BachatBazaar.pdb
+E:\aj\5-1\BachatBazaar\BachatBazaar\bin\BachatBazaar.dll.config
+E:\aj\5-1\BachatBazaar\BachatBazaar\bin\BachatBazaar.dll
+E:\aj\5-1\BachatBazaar\BachatBazaar\bin\BachatBazaar.pdb
+E:\aj\5-1\BachatBazaar\BachatBazaar\bin\roslyn\csc.exe
+E:\aj\5-1\BachatBazaar\BachatBazaar\bin\roslyn\csc.exe.config
+E:\aj\5-1\BachatBazaar\BachatBazaar\bin\roslyn\csc.rsp
+E:\aj\5-1\BachatBazaar\BachatBazaar\bin\roslyn\csi.exe
+E:\aj\5-1\BachatBazaar\BachatBazaar\bin\roslyn\csi.exe.config
+E:\aj\5-1\BachatBazaar\BachatBazaar\bin\roslyn\csi.rsp
+E:\aj\5-1\BachatBazaar\BachatBazaar\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\aj\5-1\BachatBazaar\BachatBazaar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\aj\5-1\BachatBazaar\BachatBazaar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\aj\5-1\BachatBazaar\BachatBazaar\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\aj\5-1\BachatBazaar\BachatBazaar\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\aj\5-1\BachatBazaar\BachatBazaar\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\aj\5-1\BachatBazaar\BachatBazaar\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\aj\5-1\BachatBazaar\BachatBazaar\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\aj\5-1\BachatBazaar\BachatBazaar\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\aj\5-1\BachatBazaar\BachatBazaar\bin\roslyn\Microsoft.Managed.Core.targets
+E:\aj\5-1\BachatBazaar\BachatBazaar\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\aj\5-1\BachatBazaar\BachatBazaar\bin\roslyn\System.AppContext.dll
+E:\aj\5-1\BachatBazaar\BachatBazaar\bin\roslyn\System.Collections.Immutable.dll
+E:\aj\5-1\BachatBazaar\BachatBazaar\bin\roslyn\System.Console.dll
+E:\aj\5-1\BachatBazaar\BachatBazaar\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\aj\5-1\BachatBazaar\BachatBazaar\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\aj\5-1\BachatBazaar\BachatBazaar\bin\roslyn\System.IO.Compression.dll
+E:\aj\5-1\BachatBazaar\BachatBazaar\bin\roslyn\System.IO.FileSystem.dll
+E:\aj\5-1\BachatBazaar\BachatBazaar\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\aj\5-1\BachatBazaar\BachatBazaar\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\aj\5-1\BachatBazaar\BachatBazaar\bin\roslyn\System.IO.Pipes.dll
+E:\aj\5-1\BachatBazaar\BachatBazaar\bin\roslyn\System.Reflection.Metadata.dll
+E:\aj\5-1\BachatBazaar\BachatBazaar\bin\roslyn\System.Security.AccessControl.dll
+E:\aj\5-1\BachatBazaar\BachatBazaar\bin\roslyn\System.Security.Claims.dll
+E:\aj\5-1\BachatBazaar\BachatBazaar\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\aj\5-1\BachatBazaar\BachatBazaar\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\aj\5-1\BachatBazaar\BachatBazaar\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\aj\5-1\BachatBazaar\BachatBazaar\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\aj\5-1\BachatBazaar\BachatBazaar\bin\roslyn\System.Security.Principal.Windows.dll
+E:\aj\5-1\BachatBazaar\BachatBazaar\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\aj\5-1\BachatBazaar\BachatBazaar\bin\roslyn\System.ValueTuple.dll
+E:\aj\5-1\BachatBazaar\BachatBazaar\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\aj\5-1\BachatBazaar\BachatBazaar\bin\roslyn\System.Xml.XmlDocument.dll
+E:\aj\5-1\BachatBazaar\BachatBazaar\bin\roslyn\System.Xml.XPath.dll
+E:\aj\5-1\BachatBazaar\BachatBazaar\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\aj\5-1\BachatBazaar\BachatBazaar\bin\roslyn\vbc.exe
+E:\aj\5-1\BachatBazaar\BachatBazaar\bin\roslyn\vbc.exe.config
+E:\aj\5-1\BachatBazaar\BachatBazaar\bin\roslyn\vbc.rsp
+E:\aj\5-1\BachatBazaar\BachatBazaar\bin\roslyn\VBCSCompiler.exe
+E:\aj\5-1\BachatBazaar\BachatBazaar\bin\roslyn\VBCSCompiler.exe.config
+E:\aj\5-1\BachatBazaar\BachatBazaar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\aj\5-1\BachatBazaar\BachatBazaar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\aj\5-1\BachatBazaar\BachatBazaar\obj\Debug\BachatBazaar.csprojAssemblyReference.cache
+E:\aj\5-1\BachatBazaar\BachatBazaar\obj\Debug\BachatBazaar.csproj.CoreCompileInputs.cache
+E:\aj\5-1\BachatBazaar\BachatBazaar\obj\Debug\BachatBazaar.csproj.CopyComplete
+E:\aj\5-1\BachatBazaar\BachatBazaar\obj\Debug\BachatBazaar.dll
+E:\aj\5-1\BachatBazaar\BachatBazaar\obj\Debug\BachatBazaar.pdb
+D:\vbProjects\BachatBazaar\BachatBazaar\bin\BachatBazaar.dll.config
+D:\vbProjects\BachatBazaar\BachatBazaar\bin\BachatBazaar.dll
+D:\vbProjects\BachatBazaar\BachatBazaar\bin\BachatBazaar.pdb
+D:\vbProjects\BachatBazaar\BachatBazaar\bin\roslyn\csc.exe
+D:\vbProjects\BachatBazaar\BachatBazaar\bin\roslyn\csc.exe.config
+D:\vbProjects\BachatBazaar\BachatBazaar\bin\roslyn\csc.rsp
+D:\vbProjects\BachatBazaar\BachatBazaar\bin\roslyn\csi.exe
+D:\vbProjects\BachatBazaar\BachatBazaar\bin\roslyn\csi.exe.config
+D:\vbProjects\BachatBazaar\BachatBazaar\bin\roslyn\csi.rsp
+D:\vbProjects\BachatBazaar\BachatBazaar\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\vbProjects\BachatBazaar\BachatBazaar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\vbProjects\BachatBazaar\BachatBazaar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\vbProjects\BachatBazaar\BachatBazaar\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\vbProjects\BachatBazaar\BachatBazaar\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\vbProjects\BachatBazaar\BachatBazaar\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\vbProjects\BachatBazaar\BachatBazaar\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\vbProjects\BachatBazaar\BachatBazaar\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\vbProjects\BachatBazaar\BachatBazaar\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\vbProjects\BachatBazaar\BachatBazaar\bin\roslyn\Microsoft.Managed.Core.targets
+D:\vbProjects\BachatBazaar\BachatBazaar\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\vbProjects\BachatBazaar\BachatBazaar\bin\roslyn\System.AppContext.dll
+D:\vbProjects\BachatBazaar\BachatBazaar\bin\roslyn\System.Collections.Immutable.dll
+D:\vbProjects\BachatBazaar\BachatBazaar\bin\roslyn\System.Console.dll
+D:\vbProjects\BachatBazaar\BachatBazaar\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\vbProjects\BachatBazaar\BachatBazaar\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\vbProjects\BachatBazaar\BachatBazaar\bin\roslyn\System.IO.Compression.dll
+D:\vbProjects\BachatBazaar\BachatBazaar\bin\roslyn\System.IO.FileSystem.dll
+D:\vbProjects\BachatBazaar\BachatBazaar\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\vbProjects\BachatBazaar\BachatBazaar\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\vbProjects\BachatBazaar\BachatBazaar\bin\roslyn\System.IO.Pipes.dll
+D:\vbProjects\BachatBazaar\BachatBazaar\bin\roslyn\System.Reflection.Metadata.dll
+D:\vbProjects\BachatBazaar\BachatBazaar\bin\roslyn\System.Security.AccessControl.dll
+D:\vbProjects\BachatBazaar\BachatBazaar\bin\roslyn\System.Security.Claims.dll
+D:\vbProjects\BachatBazaar\BachatBazaar\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\vbProjects\BachatBazaar\BachatBazaar\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\vbProjects\BachatBazaar\BachatBazaar\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\vbProjects\BachatBazaar\BachatBazaar\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\vbProjects\BachatBazaar\BachatBazaar\bin\roslyn\System.Security.Principal.Windows.dll
+D:\vbProjects\BachatBazaar\BachatBazaar\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\vbProjects\BachatBazaar\BachatBazaar\bin\roslyn\System.ValueTuple.dll
+D:\vbProjects\BachatBazaar\BachatBazaar\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\vbProjects\BachatBazaar\BachatBazaar\bin\roslyn\System.Xml.XmlDocument.dll
+D:\vbProjects\BachatBazaar\BachatBazaar\bin\roslyn\System.Xml.XPath.dll
+D:\vbProjects\BachatBazaar\BachatBazaar\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\vbProjects\BachatBazaar\BachatBazaar\bin\roslyn\vbc.exe
+D:\vbProjects\BachatBazaar\BachatBazaar\bin\roslyn\vbc.exe.config
+D:\vbProjects\BachatBazaar\BachatBazaar\bin\roslyn\vbc.rsp
+D:\vbProjects\BachatBazaar\BachatBazaar\bin\roslyn\VBCSCompiler.exe
+D:\vbProjects\BachatBazaar\BachatBazaar\bin\roslyn\VBCSCompiler.exe.config
+D:\vbProjects\BachatBazaar\BachatBazaar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\vbProjects\BachatBazaar\BachatBazaar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\vbProjects\BachatBazaar\BachatBazaar\obj\Debug\BachatBazaar.csproj.CoreCompileInputs.cache
+D:\vbProjects\BachatBazaar\BachatBazaar\obj\Debug\BachatBazaar.csproj.CopyComplete
+D:\vbProjects\BachatBazaar\BachatBazaar\obj\Debug\BachatBazaar.dll
+D:\vbProjects\BachatBazaar\BachatBazaar\obj\Debug\BachatBazaar.pdb
+D:\vbProjects\BachatBazaar\BachatBazaar\obj\Debug\BachatBazaar.csprojAssemblyReference.cache
+D:\BachatBazaar\BachatBazaar\bin\BachatBazaar.dll.config
+D:\BachatBazaar\BachatBazaar\bin\BachatBazaar.dll
+D:\BachatBazaar\BachatBazaar\bin\BachatBazaar.pdb
+D:\BachatBazaar\BachatBazaar\bin\roslyn\csc.exe
+D:\BachatBazaar\BachatBazaar\bin\roslyn\csc.exe.config
+D:\BachatBazaar\BachatBazaar\bin\roslyn\csc.rsp
+D:\BachatBazaar\BachatBazaar\bin\roslyn\csi.exe
+D:\BachatBazaar\BachatBazaar\bin\roslyn\csi.exe.config
+D:\BachatBazaar\BachatBazaar\bin\roslyn\csi.rsp
+D:\BachatBazaar\BachatBazaar\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\BachatBazaar\BachatBazaar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\BachatBazaar\BachatBazaar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\BachatBazaar\BachatBazaar\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\BachatBazaar\BachatBazaar\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\BachatBazaar\BachatBazaar\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\BachatBazaar\BachatBazaar\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\BachatBazaar\BachatBazaar\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\BachatBazaar\BachatBazaar\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\BachatBazaar\BachatBazaar\bin\roslyn\Microsoft.Managed.Core.targets
+D:\BachatBazaar\BachatBazaar\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\BachatBazaar\BachatBazaar\bin\roslyn\System.AppContext.dll
+D:\BachatBazaar\BachatBazaar\bin\roslyn\System.Collections.Immutable.dll
+D:\BachatBazaar\BachatBazaar\bin\roslyn\System.Console.dll
+D:\BachatBazaar\BachatBazaar\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\BachatBazaar\BachatBazaar\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\BachatBazaar\BachatBazaar\bin\roslyn\System.IO.Compression.dll
+D:\BachatBazaar\BachatBazaar\bin\roslyn\System.IO.FileSystem.dll
+D:\BachatBazaar\BachatBazaar\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\BachatBazaar\BachatBazaar\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\BachatBazaar\BachatBazaar\bin\roslyn\System.IO.Pipes.dll
+D:\BachatBazaar\BachatBazaar\bin\roslyn\System.Reflection.Metadata.dll
+D:\BachatBazaar\BachatBazaar\bin\roslyn\System.Security.AccessControl.dll
+D:\BachatBazaar\BachatBazaar\bin\roslyn\System.Security.Claims.dll
+D:\BachatBazaar\BachatBazaar\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\BachatBazaar\BachatBazaar\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\BachatBazaar\BachatBazaar\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\BachatBazaar\BachatBazaar\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\BachatBazaar\BachatBazaar\bin\roslyn\System.Security.Principal.Windows.dll
+D:\BachatBazaar\BachatBazaar\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\BachatBazaar\BachatBazaar\bin\roslyn\System.ValueTuple.dll
+D:\BachatBazaar\BachatBazaar\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\BachatBazaar\BachatBazaar\bin\roslyn\System.Xml.XmlDocument.dll
+D:\BachatBazaar\BachatBazaar\bin\roslyn\System.Xml.XPath.dll
+D:\BachatBazaar\BachatBazaar\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\BachatBazaar\BachatBazaar\bin\roslyn\vbc.exe
+D:\BachatBazaar\BachatBazaar\bin\roslyn\vbc.exe.config
+D:\BachatBazaar\BachatBazaar\bin\roslyn\vbc.rsp
+D:\BachatBazaar\BachatBazaar\bin\roslyn\VBCSCompiler.exe
+D:\BachatBazaar\BachatBazaar\bin\roslyn\VBCSCompiler.exe.config
+D:\BachatBazaar\BachatBazaar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\BachatBazaar\BachatBazaar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\BachatBazaar\BachatBazaar\obj\Debug\BachatBazaar.csproj.CoreCompileInputs.cache
+D:\BachatBazaar\BachatBazaar\obj\Debug\BachatBazaar.csproj.CopyComplete
+D:\BachatBazaar\BachatBazaar\obj\Debug\BachatBazaar.dll
+D:\BachatBazaar\BachatBazaar\obj\Debug\BachatBazaar.pdb
+D:\BachatBazaar\BachatBazaar\obj\Debug\BachatBazaar.csprojAssemblyReference.cache
+E:\aj\16-01\BachatBazaar\BachatBazaar\bin\BachatBazaar.dll.config
+E:\aj\16-01\BachatBazaar\BachatBazaar\bin\BachatBazaar.dll
+E:\aj\16-01\BachatBazaar\BachatBazaar\bin\BachatBazaar.pdb
+E:\aj\16-01\BachatBazaar\BachatBazaar\bin\roslyn\csc.exe
+E:\aj\16-01\BachatBazaar\BachatBazaar\bin\roslyn\csc.exe.config
+E:\aj\16-01\BachatBazaar\BachatBazaar\bin\roslyn\csc.rsp
+E:\aj\16-01\BachatBazaar\BachatBazaar\bin\roslyn\csi.exe
+E:\aj\16-01\BachatBazaar\BachatBazaar\bin\roslyn\csi.exe.config
+E:\aj\16-01\BachatBazaar\BachatBazaar\bin\roslyn\csi.rsp
+E:\aj\16-01\BachatBazaar\BachatBazaar\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\aj\16-01\BachatBazaar\BachatBazaar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\aj\16-01\BachatBazaar\BachatBazaar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\aj\16-01\BachatBazaar\BachatBazaar\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\aj\16-01\BachatBazaar\BachatBazaar\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\aj\16-01\BachatBazaar\BachatBazaar\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\aj\16-01\BachatBazaar\BachatBazaar\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\aj\16-01\BachatBazaar\BachatBazaar\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\aj\16-01\BachatBazaar\BachatBazaar\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\aj\16-01\BachatBazaar\BachatBazaar\bin\roslyn\Microsoft.Managed.Core.targets
+E:\aj\16-01\BachatBazaar\BachatBazaar\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\aj\16-01\BachatBazaar\BachatBazaar\bin\roslyn\System.AppContext.dll
+E:\aj\16-01\BachatBazaar\BachatBazaar\bin\roslyn\System.Collections.Immutable.dll
+E:\aj\16-01\BachatBazaar\BachatBazaar\bin\roslyn\System.Console.dll
+E:\aj\16-01\BachatBazaar\BachatBazaar\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\aj\16-01\BachatBazaar\BachatBazaar\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\aj\16-01\BachatBazaar\BachatBazaar\bin\roslyn\System.IO.Compression.dll
+E:\aj\16-01\BachatBazaar\BachatBazaar\bin\roslyn\System.IO.FileSystem.dll
+E:\aj\16-01\BachatBazaar\BachatBazaar\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\aj\16-01\BachatBazaar\BachatBazaar\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\aj\16-01\BachatBazaar\BachatBazaar\bin\roslyn\System.IO.Pipes.dll
+E:\aj\16-01\BachatBazaar\BachatBazaar\bin\roslyn\System.Reflection.Metadata.dll
+E:\aj\16-01\BachatBazaar\BachatBazaar\bin\roslyn\System.Security.AccessControl.dll
+E:\aj\16-01\BachatBazaar\BachatBazaar\bin\roslyn\System.Security.Claims.dll
+E:\aj\16-01\BachatBazaar\BachatBazaar\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\aj\16-01\BachatBazaar\BachatBazaar\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\aj\16-01\BachatBazaar\BachatBazaar\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\aj\16-01\BachatBazaar\BachatBazaar\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\aj\16-01\BachatBazaar\BachatBazaar\bin\roslyn\System.Security.Principal.Windows.dll
+E:\aj\16-01\BachatBazaar\BachatBazaar\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\aj\16-01\BachatBazaar\BachatBazaar\bin\roslyn\System.ValueTuple.dll
+E:\aj\16-01\BachatBazaar\BachatBazaar\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\aj\16-01\BachatBazaar\BachatBazaar\bin\roslyn\System.Xml.XmlDocument.dll
+E:\aj\16-01\BachatBazaar\BachatBazaar\bin\roslyn\System.Xml.XPath.dll
+E:\aj\16-01\BachatBazaar\BachatBazaar\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\aj\16-01\BachatBazaar\BachatBazaar\bin\roslyn\vbc.exe
+E:\aj\16-01\BachatBazaar\BachatBazaar\bin\roslyn\vbc.exe.config
+E:\aj\16-01\BachatBazaar\BachatBazaar\bin\roslyn\vbc.rsp
+E:\aj\16-01\BachatBazaar\BachatBazaar\bin\roslyn\VBCSCompiler.exe
+E:\aj\16-01\BachatBazaar\BachatBazaar\bin\roslyn\VBCSCompiler.exe.config
+E:\aj\16-01\BachatBazaar\BachatBazaar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\aj\16-01\BachatBazaar\BachatBazaar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\aj\16-01\BachatBazaar\BachatBazaar\obj\Debug\BachatBazaar.csprojAssemblyReference.cache
+E:\aj\16-01\BachatBazaar\BachatBazaar\obj\Debug\BachatBazaar.csproj.CoreCompileInputs.cache
+E:\aj\16-01\BachatBazaar\BachatBazaar\obj\Debug\BachatBazaar.csproj.CopyComplete
+E:\aj\16-01\BachatBazaar\BachatBazaar\obj\Debug\BachatBazaar.dll
+E:\aj\16-01\BachatBazaar\BachatBazaar\obj\Debug\BachatBazaar.pdb
+E:\Sinha\VbProjects\BachatBazaar\BachatBazaar\bin\BachatBazaar.dll.config
+E:\Sinha\VbProjects\BachatBazaar\BachatBazaar\bin\BachatBazaar.dll
+E:\Sinha\VbProjects\BachatBazaar\BachatBazaar\bin\BachatBazaar.pdb
+E:\Sinha\VbProjects\BachatBazaar\BachatBazaar\bin\roslyn\csc.exe
+E:\Sinha\VbProjects\BachatBazaar\BachatBazaar\bin\roslyn\csc.exe.config
+E:\Sinha\VbProjects\BachatBazaar\BachatBazaar\bin\roslyn\csc.rsp
+E:\Sinha\VbProjects\BachatBazaar\BachatBazaar\bin\roslyn\csi.exe
+E:\Sinha\VbProjects\BachatBazaar\BachatBazaar\bin\roslyn\csi.exe.config
+E:\Sinha\VbProjects\BachatBazaar\BachatBazaar\bin\roslyn\csi.rsp
+E:\Sinha\VbProjects\BachatBazaar\BachatBazaar\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Sinha\VbProjects\BachatBazaar\BachatBazaar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Sinha\VbProjects\BachatBazaar\BachatBazaar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Sinha\VbProjects\BachatBazaar\BachatBazaar\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Sinha\VbProjects\BachatBazaar\BachatBazaar\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Sinha\VbProjects\BachatBazaar\BachatBazaar\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Sinha\VbProjects\BachatBazaar\BachatBazaar\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Sinha\VbProjects\BachatBazaar\BachatBazaar\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Sinha\VbProjects\BachatBazaar\BachatBazaar\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Sinha\VbProjects\BachatBazaar\BachatBazaar\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Sinha\VbProjects\BachatBazaar\BachatBazaar\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Sinha\VbProjects\BachatBazaar\BachatBazaar\bin\roslyn\System.AppContext.dll
+E:\Sinha\VbProjects\BachatBazaar\BachatBazaar\bin\roslyn\System.Collections.Immutable.dll
+E:\Sinha\VbProjects\BachatBazaar\BachatBazaar\bin\roslyn\System.Console.dll
+E:\Sinha\VbProjects\BachatBazaar\BachatBazaar\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Sinha\VbProjects\BachatBazaar\BachatBazaar\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Sinha\VbProjects\BachatBazaar\BachatBazaar\bin\roslyn\System.IO.Compression.dll
+E:\Sinha\VbProjects\BachatBazaar\BachatBazaar\bin\roslyn\System.IO.FileSystem.dll
+E:\Sinha\VbProjects\BachatBazaar\BachatBazaar\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Sinha\VbProjects\BachatBazaar\BachatBazaar\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Sinha\VbProjects\BachatBazaar\BachatBazaar\bin\roslyn\System.IO.Pipes.dll
+E:\Sinha\VbProjects\BachatBazaar\BachatBazaar\bin\roslyn\System.Reflection.Metadata.dll
+E:\Sinha\VbProjects\BachatBazaar\BachatBazaar\bin\roslyn\System.Security.AccessControl.dll
+E:\Sinha\VbProjects\BachatBazaar\BachatBazaar\bin\roslyn\System.Security.Claims.dll
+E:\Sinha\VbProjects\BachatBazaar\BachatBazaar\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Sinha\VbProjects\BachatBazaar\BachatBazaar\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Sinha\VbProjects\BachatBazaar\BachatBazaar\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Sinha\VbProjects\BachatBazaar\BachatBazaar\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Sinha\VbProjects\BachatBazaar\BachatBazaar\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Sinha\VbProjects\BachatBazaar\BachatBazaar\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Sinha\VbProjects\BachatBazaar\BachatBazaar\bin\roslyn\System.ValueTuple.dll
+E:\Sinha\VbProjects\BachatBazaar\BachatBazaar\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Sinha\VbProjects\BachatBazaar\BachatBazaar\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Sinha\VbProjects\BachatBazaar\BachatBazaar\bin\roslyn\System.Xml.XPath.dll
+E:\Sinha\VbProjects\BachatBazaar\BachatBazaar\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Sinha\VbProjects\BachatBazaar\BachatBazaar\bin\roslyn\vbc.exe
+E:\Sinha\VbProjects\BachatBazaar\BachatBazaar\bin\roslyn\vbc.exe.config
+E:\Sinha\VbProjects\BachatBazaar\BachatBazaar\bin\roslyn\vbc.rsp
+E:\Sinha\VbProjects\BachatBazaar\BachatBazaar\bin\roslyn\VBCSCompiler.exe
+E:\Sinha\VbProjects\BachatBazaar\BachatBazaar\bin\roslyn\VBCSCompiler.exe.config
+E:\Sinha\VbProjects\BachatBazaar\BachatBazaar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Sinha\VbProjects\BachatBazaar\BachatBazaar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Sinha\VbProjects\BachatBazaar\BachatBazaar\obj\Debug\BachatBazaar.csprojAssemblyReference.cache
+E:\Sinha\VbProjects\BachatBazaar\BachatBazaar\obj\Debug\BachatBazaar.csproj.CoreCompileInputs.cache
+E:\Sinha\VbProjects\BachatBazaar\BachatBazaar\obj\Debug\BachatBazaar.csproj.CopyComplete
+E:\Sinha\VbProjects\BachatBazaar\BachatBazaar\obj\Debug\BachatBazaar.dll
+E:\Sinha\VbProjects\BachatBazaar\BachatBazaar\obj\Debug\BachatBazaar.pdb
+E:\Sinha\VbProjects\BachatBazaarGlobal\BachatBazaar\bin\BachatBazaar.dll.config
+E:\Sinha\VbProjects\BachatBazaarGlobal\BachatBazaar\bin\BachatBazaar.dll
+E:\Sinha\VbProjects\BachatBazaarGlobal\BachatBazaar\bin\BachatBazaar.pdb
+E:\Sinha\VbProjects\BachatBazaarGlobal\BachatBazaar\bin\roslyn\csc.exe
+E:\Sinha\VbProjects\BachatBazaarGlobal\BachatBazaar\bin\roslyn\csc.exe.config
+E:\Sinha\VbProjects\BachatBazaarGlobal\BachatBazaar\bin\roslyn\csc.rsp
+E:\Sinha\VbProjects\BachatBazaarGlobal\BachatBazaar\bin\roslyn\csi.exe
+E:\Sinha\VbProjects\BachatBazaarGlobal\BachatBazaar\bin\roslyn\csi.exe.config
+E:\Sinha\VbProjects\BachatBazaarGlobal\BachatBazaar\bin\roslyn\csi.rsp
+E:\Sinha\VbProjects\BachatBazaarGlobal\BachatBazaar\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Sinha\VbProjects\BachatBazaarGlobal\BachatBazaar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Sinha\VbProjects\BachatBazaarGlobal\BachatBazaar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Sinha\VbProjects\BachatBazaarGlobal\BachatBazaar\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Sinha\VbProjects\BachatBazaarGlobal\BachatBazaar\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Sinha\VbProjects\BachatBazaarGlobal\BachatBazaar\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Sinha\VbProjects\BachatBazaarGlobal\BachatBazaar\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Sinha\VbProjects\BachatBazaarGlobal\BachatBazaar\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Sinha\VbProjects\BachatBazaarGlobal\BachatBazaar\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Sinha\VbProjects\BachatBazaarGlobal\BachatBazaar\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Sinha\VbProjects\BachatBazaarGlobal\BachatBazaar\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Sinha\VbProjects\BachatBazaarGlobal\BachatBazaar\bin\roslyn\System.AppContext.dll
+E:\Sinha\VbProjects\BachatBazaarGlobal\BachatBazaar\bin\roslyn\System.Collections.Immutable.dll
+E:\Sinha\VbProjects\BachatBazaarGlobal\BachatBazaar\bin\roslyn\System.Console.dll
+E:\Sinha\VbProjects\BachatBazaarGlobal\BachatBazaar\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Sinha\VbProjects\BachatBazaarGlobal\BachatBazaar\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Sinha\VbProjects\BachatBazaarGlobal\BachatBazaar\bin\roslyn\System.IO.Compression.dll
+E:\Sinha\VbProjects\BachatBazaarGlobal\BachatBazaar\bin\roslyn\System.IO.FileSystem.dll
+E:\Sinha\VbProjects\BachatBazaarGlobal\BachatBazaar\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Sinha\VbProjects\BachatBazaarGlobal\BachatBazaar\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Sinha\VbProjects\BachatBazaarGlobal\BachatBazaar\bin\roslyn\System.IO.Pipes.dll
+E:\Sinha\VbProjects\BachatBazaarGlobal\BachatBazaar\bin\roslyn\System.Reflection.Metadata.dll
+E:\Sinha\VbProjects\BachatBazaarGlobal\BachatBazaar\bin\roslyn\System.Security.AccessControl.dll
+E:\Sinha\VbProjects\BachatBazaarGlobal\BachatBazaar\bin\roslyn\System.Security.Claims.dll
+E:\Sinha\VbProjects\BachatBazaarGlobal\BachatBazaar\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Sinha\VbProjects\BachatBazaarGlobal\BachatBazaar\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Sinha\VbProjects\BachatBazaarGlobal\BachatBazaar\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Sinha\VbProjects\BachatBazaarGlobal\BachatBazaar\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Sinha\VbProjects\BachatBazaarGlobal\BachatBazaar\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Sinha\VbProjects\BachatBazaarGlobal\BachatBazaar\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Sinha\VbProjects\BachatBazaarGlobal\BachatBazaar\bin\roslyn\System.ValueTuple.dll
+E:\Sinha\VbProjects\BachatBazaarGlobal\BachatBazaar\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Sinha\VbProjects\BachatBazaarGlobal\BachatBazaar\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Sinha\VbProjects\BachatBazaarGlobal\BachatBazaar\bin\roslyn\System.Xml.XPath.dll
+E:\Sinha\VbProjects\BachatBazaarGlobal\BachatBazaar\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Sinha\VbProjects\BachatBazaarGlobal\BachatBazaar\bin\roslyn\vbc.exe
+E:\Sinha\VbProjects\BachatBazaarGlobal\BachatBazaar\bin\roslyn\vbc.exe.config
+E:\Sinha\VbProjects\BachatBazaarGlobal\BachatBazaar\bin\roslyn\vbc.rsp
+E:\Sinha\VbProjects\BachatBazaarGlobal\BachatBazaar\bin\roslyn\VBCSCompiler.exe
+E:\Sinha\VbProjects\BachatBazaarGlobal\BachatBazaar\bin\roslyn\VBCSCompiler.exe.config
+E:\Sinha\VbProjects\BachatBazaarGlobal\BachatBazaar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Sinha\VbProjects\BachatBazaarGlobal\BachatBazaar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Sinha\VbProjects\BachatBazaarGlobal\BachatBazaar\obj\Debug\BachatBazaar.csproj.CoreCompileInputs.cache
+E:\Sinha\VbProjects\BachatBazaarGlobal\BachatBazaar\obj\Debug\BachatBazaar.csproj.CopyComplete
+E:\Sinha\VbProjects\BachatBazaarGlobal\BachatBazaar\obj\Debug\BachatBazaar.dll
+E:\Sinha\VbProjects\BachatBazaarGlobal\BachatBazaar\obj\Debug\BachatBazaar.pdb
+E:\Sinha\VbProjects\BachatBazaarGlobal\BachatBazaar\obj\Debug\BachatBazaar.csprojAssemblyReference.cache
+E:\Sinha\VbProjects\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\BachatBazaar.dll.config
+E:\Sinha\VbProjects\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\BachatBazaar.dll
+E:\Sinha\VbProjects\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\BachatBazaar.pdb
+E:\Sinha\VbProjects\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\csc.exe
+E:\Sinha\VbProjects\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\csc.exe.config
+E:\Sinha\VbProjects\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\csc.rsp
+E:\Sinha\VbProjects\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\csi.exe
+E:\Sinha\VbProjects\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\csi.exe.config
+E:\Sinha\VbProjects\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\csi.rsp
+E:\Sinha\VbProjects\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Sinha\VbProjects\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Sinha\VbProjects\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Sinha\VbProjects\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Sinha\VbProjects\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Sinha\VbProjects\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Sinha\VbProjects\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Sinha\VbProjects\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Sinha\VbProjects\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Sinha\VbProjects\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Sinha\VbProjects\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Sinha\VbProjects\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.AppContext.dll
+E:\Sinha\VbProjects\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.Collections.Immutable.dll
+E:\Sinha\VbProjects\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.Console.dll
+E:\Sinha\VbProjects\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Sinha\VbProjects\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Sinha\VbProjects\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.IO.Compression.dll
+E:\Sinha\VbProjects\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.IO.FileSystem.dll
+E:\Sinha\VbProjects\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Sinha\VbProjects\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Sinha\VbProjects\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.IO.Pipes.dll
+E:\Sinha\VbProjects\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.Reflection.Metadata.dll
+E:\Sinha\VbProjects\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.Security.AccessControl.dll
+E:\Sinha\VbProjects\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.Security.Claims.dll
+E:\Sinha\VbProjects\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Sinha\VbProjects\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Sinha\VbProjects\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Sinha\VbProjects\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Sinha\VbProjects\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Sinha\VbProjects\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Sinha\VbProjects\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.ValueTuple.dll
+E:\Sinha\VbProjects\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Sinha\VbProjects\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Sinha\VbProjects\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.Xml.XPath.dll
+E:\Sinha\VbProjects\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Sinha\VbProjects\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\vbc.exe
+E:\Sinha\VbProjects\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\vbc.exe.config
+E:\Sinha\VbProjects\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\vbc.rsp
+E:\Sinha\VbProjects\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\VBCSCompiler.exe
+E:\Sinha\VbProjects\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\VBCSCompiler.exe.config
+E:\Sinha\VbProjects\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Sinha\VbProjects\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Sinha\VbProjects\BachatBazaarGlobal_25-01-21\BachatBazaar\obj\Debug\BachatBazaar.csproj.CoreCompileInputs.cache
+E:\Sinha\VbProjects\BachatBazaarGlobal_25-01-21\BachatBazaar\obj\Debug\BachatBazaar.csproj.CopyComplete
+E:\Sinha\VbProjects\BachatBazaarGlobal_25-01-21\BachatBazaar\obj\Debug\BachatBazaar.dll
+E:\Sinha\VbProjects\BachatBazaarGlobal_25-01-21\BachatBazaar\obj\Debug\BachatBazaar.pdb
+E:\aj\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\BachatBazaar.dll.config
+E:\aj\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\BachatBazaar.dll
+E:\aj\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\BachatBazaar.pdb
+E:\aj\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\csc.exe
+E:\aj\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\csc.exe.config
+E:\aj\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\csc.rsp
+E:\aj\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\csi.exe
+E:\aj\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\csi.exe.config
+E:\aj\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\csi.rsp
+E:\aj\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\aj\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\aj\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\aj\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\aj\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\aj\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\aj\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\aj\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\aj\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\aj\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\Microsoft.Managed.Core.targets
+E:\aj\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\aj\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.AppContext.dll
+E:\aj\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.Collections.Immutable.dll
+E:\aj\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.Console.dll
+E:\aj\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\aj\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\aj\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.IO.Compression.dll
+E:\aj\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.IO.FileSystem.dll
+E:\aj\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\aj\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\aj\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.IO.Pipes.dll
+E:\aj\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.Reflection.Metadata.dll
+E:\aj\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.Security.AccessControl.dll
+E:\aj\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.Security.Claims.dll
+E:\aj\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\aj\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\aj\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\aj\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\aj\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.Security.Principal.Windows.dll
+E:\aj\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\aj\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.ValueTuple.dll
+E:\aj\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\aj\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.Xml.XmlDocument.dll
+E:\aj\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.Xml.XPath.dll
+E:\aj\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\aj\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\vbc.exe
+E:\aj\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\vbc.exe.config
+E:\aj\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\vbc.rsp
+E:\aj\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\VBCSCompiler.exe
+E:\aj\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\VBCSCompiler.exe.config
+E:\aj\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\aj\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\aj\BachatBazaarGlobal_25-01-21\BachatBazaar\obj\Debug\BachatBazaar.csproj.CoreCompileInputs.cache
+E:\aj\BachatBazaarGlobal_25-01-21\BachatBazaar\obj\Debug\BachatBazaar.csproj.CopyComplete
+E:\aj\BachatBazaarGlobal_25-01-21\BachatBazaar\obj\Debug\BachatBazaar.dll
+E:\aj\BachatBazaarGlobal_25-01-21\BachatBazaar\obj\Debug\BachatBazaar.pdb
+E:\aj\BachatOrder\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\BachatBazaar.dll.config
+E:\aj\BachatOrder\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\BachatBazaar.dll
+E:\aj\BachatOrder\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\BachatBazaar.pdb
+E:\aj\BachatOrder\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\csc.exe
+E:\aj\BachatOrder\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\csc.exe.config
+E:\aj\BachatOrder\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\csc.rsp
+E:\aj\BachatOrder\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\csi.exe
+E:\aj\BachatOrder\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\csi.exe.config
+E:\aj\BachatOrder\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\csi.rsp
+E:\aj\BachatOrder\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\aj\BachatOrder\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\aj\BachatOrder\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\aj\BachatOrder\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\aj\BachatOrder\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\aj\BachatOrder\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\aj\BachatOrder\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\aj\BachatOrder\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\aj\BachatOrder\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\aj\BachatOrder\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\Microsoft.Managed.Core.targets
+E:\aj\BachatOrder\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\aj\BachatOrder\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.AppContext.dll
+E:\aj\BachatOrder\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.Collections.Immutable.dll
+E:\aj\BachatOrder\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.Console.dll
+E:\aj\BachatOrder\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\aj\BachatOrder\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\aj\BachatOrder\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.IO.Compression.dll
+E:\aj\BachatOrder\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.IO.FileSystem.dll
+E:\aj\BachatOrder\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\aj\BachatOrder\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\aj\BachatOrder\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.IO.Pipes.dll
+E:\aj\BachatOrder\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.Reflection.Metadata.dll
+E:\aj\BachatOrder\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.Security.AccessControl.dll
+E:\aj\BachatOrder\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.Security.Claims.dll
+E:\aj\BachatOrder\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\aj\BachatOrder\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\aj\BachatOrder\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\aj\BachatOrder\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\aj\BachatOrder\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.Security.Principal.Windows.dll
+E:\aj\BachatOrder\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\aj\BachatOrder\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.ValueTuple.dll
+E:\aj\BachatOrder\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\aj\BachatOrder\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.Xml.XmlDocument.dll
+E:\aj\BachatOrder\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.Xml.XPath.dll
+E:\aj\BachatOrder\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\aj\BachatOrder\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\vbc.exe
+E:\aj\BachatOrder\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\vbc.exe.config
+E:\aj\BachatOrder\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\vbc.rsp
+E:\aj\BachatOrder\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\VBCSCompiler.exe
+E:\aj\BachatOrder\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\VBCSCompiler.exe.config
+E:\aj\BachatOrder\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\aj\BachatOrder\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\aj\BachatOrder\BachatBazaarGlobal_25-01-21\BachatBazaar\obj\Debug\BachatBazaar.csproj.CoreCompileInputs.cache
+E:\aj\BachatOrder\BachatBazaarGlobal_25-01-21\BachatBazaar\obj\Debug\BachatBazaar.csproj.CopyComplete
+E:\aj\BachatOrder\BachatBazaarGlobal_25-01-21\BachatBazaar\obj\Debug\BachatBazaar.dll
+E:\aj\BachatOrder\BachatBazaarGlobal_25-01-21\BachatBazaar\obj\Debug\BachatBazaar.pdb
+E:\aj\Bachat 30-1\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\BachatBazaar.dll.config
+E:\aj\Bachat 30-1\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\BachatBazaar.dll
+E:\aj\Bachat 30-1\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\BachatBazaar.pdb
+E:\aj\Bachat 30-1\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\csc.exe
+E:\aj\Bachat 30-1\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\csc.exe.config
+E:\aj\Bachat 30-1\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\csc.rsp
+E:\aj\Bachat 30-1\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\csi.exe
+E:\aj\Bachat 30-1\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\csi.exe.config
+E:\aj\Bachat 30-1\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\csi.rsp
+E:\aj\Bachat 30-1\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\aj\Bachat 30-1\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\aj\Bachat 30-1\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\aj\Bachat 30-1\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\aj\Bachat 30-1\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\aj\Bachat 30-1\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\aj\Bachat 30-1\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\aj\Bachat 30-1\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\aj\Bachat 30-1\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\aj\Bachat 30-1\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\Microsoft.Managed.Core.targets
+E:\aj\Bachat 30-1\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\aj\Bachat 30-1\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.AppContext.dll
+E:\aj\Bachat 30-1\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.Collections.Immutable.dll
+E:\aj\Bachat 30-1\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.Console.dll
+E:\aj\Bachat 30-1\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\aj\Bachat 30-1\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\aj\Bachat 30-1\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.IO.Compression.dll
+E:\aj\Bachat 30-1\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.IO.FileSystem.dll
+E:\aj\Bachat 30-1\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\aj\Bachat 30-1\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\aj\Bachat 30-1\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.IO.Pipes.dll
+E:\aj\Bachat 30-1\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.Reflection.Metadata.dll
+E:\aj\Bachat 30-1\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.Security.AccessControl.dll
+E:\aj\Bachat 30-1\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.Security.Claims.dll
+E:\aj\Bachat 30-1\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\aj\Bachat 30-1\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\aj\Bachat 30-1\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\aj\Bachat 30-1\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\aj\Bachat 30-1\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.Security.Principal.Windows.dll
+E:\aj\Bachat 30-1\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\aj\Bachat 30-1\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.ValueTuple.dll
+E:\aj\Bachat 30-1\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\aj\Bachat 30-1\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.Xml.XmlDocument.dll
+E:\aj\Bachat 30-1\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.Xml.XPath.dll
+E:\aj\Bachat 30-1\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\aj\Bachat 30-1\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\vbc.exe
+E:\aj\Bachat 30-1\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\vbc.exe.config
+E:\aj\Bachat 30-1\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\vbc.rsp
+E:\aj\Bachat 30-1\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\VBCSCompiler.exe
+E:\aj\Bachat 30-1\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\VBCSCompiler.exe.config
+E:\aj\Bachat 30-1\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\aj\Bachat 30-1\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\aj\Bachat 30-1\BachatBazaarGlobal_25-01-21\BachatBazaar\obj\Debug\BachatBazaar.csproj.CoreCompileInputs.cache
+E:\aj\Bachat 30-1\BachatBazaarGlobal_25-01-21\BachatBazaar\obj\Debug\BachatBazaar.csproj.CopyComplete
+E:\aj\Bachat 30-1\BachatBazaarGlobal_25-01-21\BachatBazaar\obj\Debug\BachatBazaar.dll
+E:\aj\Bachat 30-1\BachatBazaarGlobal_25-01-21\BachatBazaar\obj\Debug\BachatBazaar.pdb
+E:\aj\Bachat 30-1\BachatBazaarGlobal_25-01-21\BachatBazaar\obj\Debug\BachatBazaar.csprojAssemblyReference.cache
+E:\Sinha\VbProjects\BachatBazaarGlobal_25-01-21\BachatBazaar\obj\Debug\BachatBazaar.csprojAssemblyReference.cache
+E:\aj\Sakav Latest\BachatBazaarGlobal_25-01-21\BachatBazaar\obj\Debug\BachatBazaar.csproj.CoreCompileInputs.cache
+E:\aj\Sakav Latest\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\BachatBazaar.dll.config
+E:\aj\Sakav Latest\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\BachatBazaar.dll
+E:\aj\Sakav Latest\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\BachatBazaar.pdb
+E:\aj\Sakav Latest\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\csc.exe
+E:\aj\Sakav Latest\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\csc.exe.config
+E:\aj\Sakav Latest\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\csc.rsp
+E:\aj\Sakav Latest\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\csi.exe
+E:\aj\Sakav Latest\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\csi.exe.config
+E:\aj\Sakav Latest\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\csi.rsp
+E:\aj\Sakav Latest\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\aj\Sakav Latest\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\aj\Sakav Latest\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\aj\Sakav Latest\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\aj\Sakav Latest\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\aj\Sakav Latest\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\aj\Sakav Latest\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\aj\Sakav Latest\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\aj\Sakav Latest\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\aj\Sakav Latest\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\Microsoft.Managed.Core.targets
+E:\aj\Sakav Latest\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\aj\Sakav Latest\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.AppContext.dll
+E:\aj\Sakav Latest\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.Collections.Immutable.dll
+E:\aj\Sakav Latest\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.Console.dll
+E:\aj\Sakav Latest\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\aj\Sakav Latest\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\aj\Sakav Latest\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.IO.Compression.dll
+E:\aj\Sakav Latest\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.IO.FileSystem.dll
+E:\aj\Sakav Latest\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\aj\Sakav Latest\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\aj\Sakav Latest\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.IO.Pipes.dll
+E:\aj\Sakav Latest\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.Reflection.Metadata.dll
+E:\aj\Sakav Latest\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.Security.AccessControl.dll
+E:\aj\Sakav Latest\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.Security.Claims.dll
+E:\aj\Sakav Latest\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\aj\Sakav Latest\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\aj\Sakav Latest\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\aj\Sakav Latest\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\aj\Sakav Latest\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.Security.Principal.Windows.dll
+E:\aj\Sakav Latest\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\aj\Sakav Latest\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.ValueTuple.dll
+E:\aj\Sakav Latest\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\aj\Sakav Latest\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.Xml.XmlDocument.dll
+E:\aj\Sakav Latest\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.Xml.XPath.dll
+E:\aj\Sakav Latest\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\aj\Sakav Latest\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\vbc.exe
+E:\aj\Sakav Latest\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\vbc.exe.config
+E:\aj\Sakav Latest\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\vbc.rsp
+E:\aj\Sakav Latest\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\VBCSCompiler.exe
+E:\aj\Sakav Latest\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\VBCSCompiler.exe.config
+E:\aj\Sakav Latest\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\aj\Sakav Latest\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\System.Net.Http.dll
+E:\aj\Sakav Latest\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\System.Security.Cryptography.Algorithms.dll
+E:\aj\Sakav Latest\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\System.Security.Cryptography.Encoding.dll
+E:\aj\Sakav Latest\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\System.Security.Cryptography.Primitives.dll
+E:\aj\Sakav Latest\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\System.Security.Cryptography.X509Certificates.dll
+E:\aj\Sakav Latest\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\aj\Sakav Latest\BachatBazaarGlobal_25-01-21\BachatBazaar\obj\Debug\BachatBazaar.csproj.CopyComplete
+E:\aj\Sakav Latest\BachatBazaarGlobal_25-01-21\BachatBazaar\obj\Debug\BachatBazaar.dll
+E:\aj\Sakav Latest\BachatBazaarGlobal_25-01-21\BachatBazaar\obj\Debug\BachatBazaar.pdb
+E:\aj\Sakav Latest\BachatBazaarGlobal_25-01-21\BachatBazaar\obj\Debug\BachatBazaar.csprojAssemblyReference.cache
+E:\Sinha\VbProjects\Sakav\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\BachatBazaar.dll.config
+E:\Sinha\VbProjects\Sakav\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\BachatBazaar.dll
+E:\Sinha\VbProjects\Sakav\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\BachatBazaar.pdb
+E:\Sinha\VbProjects\Sakav\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\csc.exe
+E:\Sinha\VbProjects\Sakav\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\csc.exe.config
+E:\Sinha\VbProjects\Sakav\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\csc.rsp
+E:\Sinha\VbProjects\Sakav\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\csi.exe
+E:\Sinha\VbProjects\Sakav\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\csi.exe.config
+E:\Sinha\VbProjects\Sakav\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\csi.rsp
+E:\Sinha\VbProjects\Sakav\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Sinha\VbProjects\Sakav\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Sinha\VbProjects\Sakav\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Sinha\VbProjects\Sakav\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Sinha\VbProjects\Sakav\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Sinha\VbProjects\Sakav\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Sinha\VbProjects\Sakav\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Sinha\VbProjects\Sakav\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Sinha\VbProjects\Sakav\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Sinha\VbProjects\Sakav\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Sinha\VbProjects\Sakav\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Sinha\VbProjects\Sakav\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.AppContext.dll
+E:\Sinha\VbProjects\Sakav\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.Collections.Immutable.dll
+E:\Sinha\VbProjects\Sakav\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.Console.dll
+E:\Sinha\VbProjects\Sakav\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Sinha\VbProjects\Sakav\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Sinha\VbProjects\Sakav\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.IO.Compression.dll
+E:\Sinha\VbProjects\Sakav\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.IO.FileSystem.dll
+E:\Sinha\VbProjects\Sakav\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Sinha\VbProjects\Sakav\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Sinha\VbProjects\Sakav\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.IO.Pipes.dll
+E:\Sinha\VbProjects\Sakav\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.Reflection.Metadata.dll
+E:\Sinha\VbProjects\Sakav\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.Security.AccessControl.dll
+E:\Sinha\VbProjects\Sakav\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.Security.Claims.dll
+E:\Sinha\VbProjects\Sakav\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Sinha\VbProjects\Sakav\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Sinha\VbProjects\Sakav\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Sinha\VbProjects\Sakav\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Sinha\VbProjects\Sakav\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Sinha\VbProjects\Sakav\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Sinha\VbProjects\Sakav\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.ValueTuple.dll
+E:\Sinha\VbProjects\Sakav\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Sinha\VbProjects\Sakav\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Sinha\VbProjects\Sakav\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.Xml.XPath.dll
+E:\Sinha\VbProjects\Sakav\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Sinha\VbProjects\Sakav\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\vbc.exe
+E:\Sinha\VbProjects\Sakav\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\vbc.exe.config
+E:\Sinha\VbProjects\Sakav\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\vbc.rsp
+E:\Sinha\VbProjects\Sakav\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\VBCSCompiler.exe
+E:\Sinha\VbProjects\Sakav\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\roslyn\VBCSCompiler.exe.config
+E:\Sinha\VbProjects\Sakav\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Sinha\VbProjects\Sakav\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\System.Net.Http.dll
+E:\Sinha\VbProjects\Sakav\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\System.Security.Cryptography.Algorithms.dll
+E:\Sinha\VbProjects\Sakav\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\System.Security.Cryptography.Encoding.dll
+E:\Sinha\VbProjects\Sakav\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\System.Security.Cryptography.Primitives.dll
+E:\Sinha\VbProjects\Sakav\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\System.Security.Cryptography.X509Certificates.dll
+E:\Sinha\VbProjects\Sakav\BachatBazaarGlobal_25-01-21\BachatBazaar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Sinha\VbProjects\Sakav\BachatBazaarGlobal_25-01-21\BachatBazaar\obj\Debug\BachatBazaar.csproj.CoreCompileInputs.cache
+E:\Sinha\VbProjects\Sakav\BachatBazaarGlobal_25-01-21\BachatBazaar\obj\Debug\BachatBazaar.csproj.CopyComplete
+E:\Sinha\VbProjects\Sakav\BachatBazaarGlobal_25-01-21\BachatBazaar\obj\Debug\BachatBazaar.dll
+E:\Sinha\VbProjects\Sakav\BachatBazaarGlobal_25-01-21\BachatBazaar\obj\Debug\BachatBazaar.pdb
+E:\Sinha\VbProjects\Sakav\BachatBazaarGlobal_25-01-21\BachatBazaar\obj\Debug\BachatBazaar.csprojAssemblyReference.cache
